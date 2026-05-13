@@ -1,14 +1,4380 @@
 {
-  "addedAnime": [],
+  "addedAnime": [
+    {
+      "animeTitle": "\"Oshi no Ko\" 2nd Season"
+    },
+    {
+      "animeTitle": "Digimon Beatbreak"
+    },
+    {
+      "animeTitle": "Meitantei Precure!"
+    },
+    {
+      "animeTitle": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 4th Season"
+    },
+    {
+      "animeTitle": "LasTame S2"
+    },
+    {
+      "animeTitle": "Ingoku Danchi"
+    },
+    {
+      "animeTitle": "Isekai Nonbiri Nouka 2"
+    },
+    {
+      "animeTitle": "Tongari Boushi no Atelier"
+    },
+    {
+      "animeTitle": "Ghost Concert: Missing Songs"
+    },
+    {
+      "animeTitle": "Kuroneko to Majo no Kyoushitsu"
+    },
+    {
+      "animeTitle": "Yozakura-san Chi no Daisakusen 2nd Season"
+    },
+    {
+      "animeTitle": "Tsue to Tsurugi no Wistoria Season 2"
+    },
+    {
+      "animeTitle": "Niwatori Fighter"
+    },
+    {
+      "animeTitle": "Maid-san wa Taberu dake"
+    },
+    {
+      "animeTitle": "Nippon Sangoku"
+    },
+    {
+      "animeTitle": "Diamond no Ace: Act II Second Season"
+    },
+    {
+      "animeTitle": "Yuusha no Kuzu"
+    },
+    {
+      "animeTitle": "Needy Girl Overdose"
+    },
+    {
+      "animeTitle": "Ichijouma Mankitsugurashi!"
+    },
+    {
+      "animeTitle": "Shunkashuutou Daikousha: Haru no Mai"
+    },
+    {
+      "animeTitle": "Kami no Niwatsuki Kusunoki-tei"
+    },
+    {
+      "animeTitle": "Mao"
+    },
+    {
+      "animeTitle": "Akane-banashi"
+    },
+    {
+      "animeTitle": "Yomi no Tsugai"
+    },
+    {
+      "animeTitle": "Kanan-sama wa Akumade Choroi"
+    },
+    {
+      "animeTitle": "Onegai AiPri"
+    },
+    {
+      "animeTitle": "Yowayowa Sensei"
+    },
+    {
+      "animeTitle": "Daikenja Riddle no Jikan Gyakkou"
+    },
+    {
+      "animeTitle": "Mairimashita! Iruma-kun 4th Season"
+    },
+    {
+      "animeTitle": "Saikyou no Shokugyou wa Yuusha demo Kenja demo Naku Kanteishi (Kari) Rashii desu yo?"
+    },
+    {
+      "animeTitle": "Kill Ao"
+    },
+    {
+      "animeTitle": "Mahou no Shimai Lulutto Lilly"
+    },
+    {
+      "animeTitle": "Ganbare! Nakamura-kun!!"
+    },
+    {
+      "animeTitle": "Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru? Season 2"
+    },
+    {
+      "animeTitle": "Nigashita Sakana wa Ookikatta ga Tsuriageta Sakana ga Ookisugita Ken"
+    },
+    {
+      "animeTitle": "Otaku ni Yasashii Gal wa Inai!?"
+    },
+    {
+      "animeTitle": "Re:Zero kara Hajimeru Isekai Seikatsu 4th Season"
+    },
+    {
+      "animeTitle": "Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 3rd Season"
+    },
+    {
+      "animeTitle": "Dorohedoro Season 2"
+    },
+    {
+      "animeTitle": "Kanojo, Okarishimasu 5th Season"
+    },
+    {
+      "animeTitle": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 4th Season: 2-nensei-hen 1 Gakki"
+    },
+    {
+      "animeTitle": "Megami \"Isekai Tensei Nani ni Naritai desu ka\" Ore \"Yuusha no Rokkotsu de\""
+    },
+    {
+      "animeTitle": "Tadaima, Ojamasaremasu!"
+    },
+    {
+      "animeTitle": "Hidarikiki no Eren"
+    },
+    {
+      "animeTitle": "Class de 2-banme ni Kawaii Onnanoko to Tomodachi ni Natta"
+    },
+    {
+      "animeTitle": "Replica datte, Koi wo Suru."
+    },
+    {
+      "animeTitle": "Aishiteru Game wo Owarasetai"
+    },
+    {
+      "animeTitle": "Marriagetoxin"
+    },
+    {
+      "animeTitle": "Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Tami no Tame ni Tsukushimasu. Season 2"
+    },
+    {
+      "animeTitle": "Hyakki Yakoushou"
+    },
+    {
+      "animeTitle": "Liar Game"
+    },
+    {
+      "animeTitle": "Ponkotsu Fuuki Iin to Skirt-take ga Futekisetsu na JK no Hanashi"
+    }
+  ],
   "removedAnime": [],
-  "addedEpisodes": [],
+  "addedEpisodes": [
+    {
+      "animeTitle": "Digimon Beatbreak",
+      "episode": 30
+    },
+    {
+      "animeTitle": "Digimon Beatbreak",
+      "episode": 29
+    },
+    {
+      "animeTitle": "Digimon Beatbreak",
+      "episode": 28
+    },
+    {
+      "animeTitle": "Digimon Beatbreak",
+      "episode": 27
+    },
+    {
+      "animeTitle": "Digimon Beatbreak",
+      "episode": 26
+    },
+    {
+      "animeTitle": "Digimon Beatbreak",
+      "episode": 25
+    },
+    {
+      "animeTitle": "Digimon Beatbreak",
+      "episode": 24
+    },
+    {
+      "animeTitle": "Digimon Beatbreak",
+      "episode": 23
+    },
+    {
+      "animeTitle": "Digimon Beatbreak",
+      "episode": 22
+    },
+    {
+      "animeTitle": "Digimon Beatbreak",
+      "episode": 21
+    },
+    {
+      "animeTitle": "Digimon Beatbreak",
+      "episode": 20
+    },
+    {
+      "animeTitle": "Digimon Beatbreak",
+      "episode": 19
+    },
+    {
+      "animeTitle": "Digimon Beatbreak",
+      "episode": 18
+    },
+    {
+      "animeTitle": "Digimon Beatbreak",
+      "episode": 17
+    },
+    {
+      "animeTitle": "Digimon Beatbreak",
+      "episode": 16
+    },
+    {
+      "animeTitle": "Digimon Beatbreak",
+      "episode": 15
+    },
+    {
+      "animeTitle": "Digimon Beatbreak",
+      "episode": 14
+    },
+    {
+      "animeTitle": "Digimon Beatbreak",
+      "episode": 13
+    },
+    {
+      "animeTitle": "Digimon Beatbreak",
+      "episode": 12
+    },
+    {
+      "animeTitle": "Digimon Beatbreak",
+      "episode": 11
+    },
+    {
+      "animeTitle": "Digimon Beatbreak",
+      "episode": 10
+    },
+    {
+      "animeTitle": "Digimon Beatbreak",
+      "episode": 9
+    },
+    {
+      "animeTitle": "Digimon Beatbreak",
+      "episode": 8
+    },
+    {
+      "animeTitle": "Digimon Beatbreak",
+      "episode": 7
+    },
+    {
+      "animeTitle": "Digimon Beatbreak",
+      "episode": 6
+    },
+    {
+      "animeTitle": "Digimon Beatbreak",
+      "episode": 5
+    },
+    {
+      "animeTitle": "Digimon Beatbreak",
+      "episode": 4
+    },
+    {
+      "animeTitle": "Digimon Beatbreak",
+      "episode": 3
+    },
+    {
+      "animeTitle": "Digimon Beatbreak",
+      "episode": 2
+    },
+    {
+      "animeTitle": "Digimon Beatbreak",
+      "episode": 1
+    },
+    {
+      "animeTitle": "Meitantei Precure!",
+      "episode": 15
+    },
+    {
+      "animeTitle": "Meitantei Precure!",
+      "episode": 14
+    },
+    {
+      "animeTitle": "Meitantei Precure!",
+      "episode": 13
+    },
+    {
+      "animeTitle": "Meitantei Precure!",
+      "episode": 12
+    },
+    {
+      "animeTitle": "Meitantei Precure!",
+      "episode": 11
+    },
+    {
+      "animeTitle": "Meitantei Precure!",
+      "episode": 10
+    },
+    {
+      "animeTitle": "Meitantei Precure!",
+      "episode": 9
+    },
+    {
+      "animeTitle": "Meitantei Precure!",
+      "episode": 8
+    },
+    {
+      "animeTitle": "Meitantei Precure!",
+      "episode": 7
+    },
+    {
+      "animeTitle": "Meitantei Precure!",
+      "episode": 6
+    },
+    {
+      "animeTitle": "Meitantei Precure!",
+      "episode": 5
+    },
+    {
+      "animeTitle": "Meitantei Precure!",
+      "episode": 4
+    },
+    {
+      "animeTitle": "Meitantei Precure!",
+      "episode": 3
+    },
+    {
+      "animeTitle": "Meitantei Precure!",
+      "episode": 2
+    },
+    {
+      "animeTitle": "Meitantei Precure!",
+      "episode": 1
+    },
+    {
+      "animeTitle": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 4th Season",
+      "episode": 10
+    },
+    {
+      "animeTitle": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 4th Season",
+      "episode": 9
+    },
+    {
+      "animeTitle": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 4th Season",
+      "episode": 8
+    },
+    {
+      "animeTitle": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 4th Season",
+      "episode": 7
+    },
+    {
+      "animeTitle": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 4th Season",
+      "episode": 6
+    },
+    {
+      "animeTitle": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 4th Season",
+      "episode": 5
+    },
+    {
+      "animeTitle": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 4th Season",
+      "episode": 4
+    },
+    {
+      "animeTitle": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 4th Season",
+      "episode": 3
+    },
+    {
+      "animeTitle": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 4th Season",
+      "episode": 2
+    },
+    {
+      "animeTitle": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 4th Season",
+      "episode": 1
+    },
+    {
+      "animeTitle": "LasTame S2",
+      "episode": 6
+    },
+    {
+      "animeTitle": "LasTame S2",
+      "episode": 5
+    },
+    {
+      "animeTitle": "LasTame S2",
+      "episode": 4
+    },
+    {
+      "animeTitle": "LasTame S2",
+      "episode": 3
+    },
+    {
+      "animeTitle": "LasTame S2",
+      "episode": 2
+    },
+    {
+      "animeTitle": "LasTame S2",
+      "episode": 1
+    },
+    {
+      "animeTitle": "Ingoku Danchi",
+      "episode": 6
+    },
+    {
+      "animeTitle": "Ingoku Danchi",
+      "episode": 5
+    },
+    {
+      "animeTitle": "Ingoku Danchi",
+      "episode": 4
+    },
+    {
+      "animeTitle": "Ingoku Danchi",
+      "episode": 3
+    },
+    {
+      "animeTitle": "Ingoku Danchi",
+      "episode": 2
+    },
+    {
+      "animeTitle": "Ingoku Danchi",
+      "episode": 1
+    },
+    {
+      "animeTitle": "Isekai Nonbiri Nouka 2",
+      "episode": 6
+    },
+    {
+      "animeTitle": "Isekai Nonbiri Nouka 2",
+      "episode": 5
+    },
+    {
+      "animeTitle": "Isekai Nonbiri Nouka 2",
+      "episode": 4
+    },
+    {
+      "animeTitle": "Isekai Nonbiri Nouka 2",
+      "episode": 3
+    },
+    {
+      "animeTitle": "Isekai Nonbiri Nouka 2",
+      "episode": 2
+    },
+    {
+      "animeTitle": "Isekai Nonbiri Nouka 2",
+      "episode": 1
+    },
+    {
+      "animeTitle": "Tongari Boushi no Atelier",
+      "episode": 7
+    },
+    {
+      "animeTitle": "Tongari Boushi no Atelier",
+      "episode": 6
+    },
+    {
+      "animeTitle": "Tongari Boushi no Atelier",
+      "episode": 5
+    },
+    {
+      "animeTitle": "Tongari Boushi no Atelier",
+      "episode": 4
+    },
+    {
+      "animeTitle": "Tongari Boushi no Atelier",
+      "episode": 3
+    },
+    {
+      "animeTitle": "Tongari Boushi no Atelier",
+      "episode": 2
+    },
+    {
+      "animeTitle": "Tongari Boushi no Atelier",
+      "episode": 1
+    },
+    {
+      "animeTitle": "Ghost Concert: Missing Songs",
+      "episode": 6
+    },
+    {
+      "animeTitle": "Ghost Concert: Missing Songs",
+      "episode": 5
+    },
+    {
+      "animeTitle": "Ghost Concert: Missing Songs",
+      "episode": 4
+    },
+    {
+      "animeTitle": "Ghost Concert: Missing Songs",
+      "episode": 3
+    },
+    {
+      "animeTitle": "Ghost Concert: Missing Songs",
+      "episode": 2
+    },
+    {
+      "animeTitle": "Ghost Concert: Missing Songs",
+      "episode": 1
+    },
+    {
+      "animeTitle": "Kuroneko to Majo no Kyoushitsu",
+      "episode": 5
+    },
+    {
+      "animeTitle": "Kuroneko to Majo no Kyoushitsu",
+      "episode": 4
+    },
+    {
+      "animeTitle": "Kuroneko to Majo no Kyoushitsu",
+      "episode": 3
+    },
+    {
+      "animeTitle": "Kuroneko to Majo no Kyoushitsu",
+      "episode": 2
+    },
+    {
+      "animeTitle": "Kuroneko to Majo no Kyoushitsu",
+      "episode": 1
+    },
+    {
+      "animeTitle": "Yozakura-san Chi no Daisakusen 2nd Season",
+      "episode": 5
+    },
+    {
+      "animeTitle": "Yozakura-san Chi no Daisakusen 2nd Season",
+      "episode": 4
+    },
+    {
+      "animeTitle": "Yozakura-san Chi no Daisakusen 2nd Season",
+      "episode": 3
+    },
+    {
+      "animeTitle": "Yozakura-san Chi no Daisakusen 2nd Season",
+      "episode": 2
+    },
+    {
+      "animeTitle": "Yozakura-san Chi no Daisakusen 2nd Season",
+      "episode": 1
+    },
+    {
+      "animeTitle": "Tsue to Tsurugi no Wistoria Season 2",
+      "episode": 5
+    },
+    {
+      "animeTitle": "Tsue to Tsurugi no Wistoria Season 2",
+      "episode": 4
+    },
+    {
+      "animeTitle": "Tsue to Tsurugi no Wistoria Season 2",
+      "episode": 3
+    },
+    {
+      "animeTitle": "Tsue to Tsurugi no Wistoria Season 2",
+      "episode": 2
+    },
+    {
+      "animeTitle": "Tsue to Tsurugi no Wistoria Season 2",
+      "episode": 1
+    },
+    {
+      "animeTitle": "Niwatori Fighter",
+      "episode": 9
+    },
+    {
+      "animeTitle": "Niwatori Fighter",
+      "episode": 8
+    },
+    {
+      "animeTitle": "Niwatori Fighter",
+      "episode": 7
+    },
+    {
+      "animeTitle": "Niwatori Fighter",
+      "episode": 6
+    },
+    {
+      "animeTitle": "Niwatori Fighter",
+      "episode": 5
+    },
+    {
+      "animeTitle": "Niwatori Fighter",
+      "episode": 4
+    },
+    {
+      "animeTitle": "Niwatori Fighter",
+      "episode": 3
+    },
+    {
+      "animeTitle": "Niwatori Fighter",
+      "episode": 2
+    },
+    {
+      "animeTitle": "Niwatori Fighter",
+      "episode": 1
+    },
+    {
+      "animeTitle": "Maid-san wa Taberu dake",
+      "episode": 7
+    },
+    {
+      "animeTitle": "Maid-san wa Taberu dake",
+      "episode": 6
+    },
+    {
+      "animeTitle": "Maid-san wa Taberu dake",
+      "episode": 5
+    },
+    {
+      "animeTitle": "Maid-san wa Taberu dake",
+      "episode": 4
+    },
+    {
+      "animeTitle": "Maid-san wa Taberu dake",
+      "episode": 3
+    },
+    {
+      "animeTitle": "Maid-san wa Taberu dake",
+      "episode": 2
+    },
+    {
+      "animeTitle": "Maid-san wa Taberu dake",
+      "episode": 1
+    },
+    {
+      "animeTitle": "Nippon Sangoku",
+      "episode": 6
+    },
+    {
+      "animeTitle": "Nippon Sangoku",
+      "episode": 5
+    },
+    {
+      "animeTitle": "Nippon Sangoku",
+      "episode": 4
+    },
+    {
+      "animeTitle": "Nippon Sangoku",
+      "episode": 3
+    },
+    {
+      "animeTitle": "Nippon Sangoku",
+      "episode": 2
+    },
+    {
+      "animeTitle": "Nippon Sangoku",
+      "episode": 1
+    },
+    {
+      "animeTitle": "Diamond no Ace: Act II Second Season",
+      "episode": 6
+    },
+    {
+      "animeTitle": "Diamond no Ace: Act II Second Season",
+      "episode": 5
+    },
+    {
+      "animeTitle": "Diamond no Ace: Act II Second Season",
+      "episode": 4
+    },
+    {
+      "animeTitle": "Diamond no Ace: Act II Second Season",
+      "episode": 3
+    },
+    {
+      "animeTitle": "Diamond no Ace: Act II Second Season",
+      "episode": 2
+    },
+    {
+      "animeTitle": "Diamond no Ace: Act II Second Season",
+      "episode": 1
+    },
+    {
+      "animeTitle": "Yuusha no Kuzu",
+      "episode": 17
+    },
+    {
+      "animeTitle": "Yuusha no Kuzu",
+      "episode": 16
+    },
+    {
+      "animeTitle": "Yuusha no Kuzu",
+      "episode": 15
+    },
+    {
+      "animeTitle": "Yuusha no Kuzu",
+      "episode": 14
+    },
+    {
+      "animeTitle": "Yuusha no Kuzu",
+      "episode": 13
+    },
+    {
+      "animeTitle": "Yuusha no Kuzu",
+      "episode": 12
+    },
+    {
+      "animeTitle": "Yuusha no Kuzu",
+      "episode": 11
+    },
+    {
+      "animeTitle": "Yuusha no Kuzu",
+      "episode": 10
+    },
+    {
+      "animeTitle": "Yuusha no Kuzu",
+      "episode": 9
+    },
+    {
+      "animeTitle": "Yuusha no Kuzu",
+      "episode": 8
+    },
+    {
+      "animeTitle": "Yuusha no Kuzu",
+      "episode": 7
+    },
+    {
+      "animeTitle": "Yuusha no Kuzu",
+      "episode": 6
+    },
+    {
+      "animeTitle": "Yuusha no Kuzu",
+      "episode": 5
+    },
+    {
+      "animeTitle": "Yuusha no Kuzu",
+      "episode": 4
+    },
+    {
+      "animeTitle": "Yuusha no Kuzu",
+      "episode": 3
+    },
+    {
+      "animeTitle": "Yuusha no Kuzu",
+      "episode": 2
+    },
+    {
+      "animeTitle": "Yuusha no Kuzu",
+      "episode": 1
+    },
+    {
+      "animeTitle": "Needy Girl Overdose",
+      "episode": 6
+    },
+    {
+      "animeTitle": "Needy Girl Overdose",
+      "episode": 5
+    },
+    {
+      "animeTitle": "Needy Girl Overdose",
+      "episode": 4
+    },
+    {
+      "animeTitle": "Needy Girl Overdose",
+      "episode": 3
+    },
+    {
+      "animeTitle": "Needy Girl Overdose",
+      "episode": 2
+    },
+    {
+      "animeTitle": "Needy Girl Overdose",
+      "episode": 1
+    },
+    {
+      "animeTitle": "Ichijouma Mankitsugurashi!",
+      "episode": 5
+    },
+    {
+      "animeTitle": "Ichijouma Mankitsugurashi!",
+      "episode": 4
+    },
+    {
+      "animeTitle": "Ichijouma Mankitsugurashi!",
+      "episode": 3
+    },
+    {
+      "animeTitle": "Ichijouma Mankitsugurashi!",
+      "episode": 2
+    },
+    {
+      "animeTitle": "Ichijouma Mankitsugurashi!",
+      "episode": 1
+    },
+    {
+      "animeTitle": "Shunkashuutou Daikousha: Haru no Mai",
+      "episode": 7
+    },
+    {
+      "animeTitle": "Shunkashuutou Daikousha: Haru no Mai",
+      "episode": 6
+    },
+    {
+      "animeTitle": "Shunkashuutou Daikousha: Haru no Mai",
+      "episode": 5
+    },
+    {
+      "animeTitle": "Shunkashuutou Daikousha: Haru no Mai",
+      "episode": 4
+    },
+    {
+      "animeTitle": "Shunkashuutou Daikousha: Haru no Mai",
+      "episode": 3
+    },
+    {
+      "animeTitle": "Shunkashuutou Daikousha: Haru no Mai",
+      "episode": 2
+    },
+    {
+      "animeTitle": "Shunkashuutou Daikousha: Haru no Mai",
+      "episode": 1
+    },
+    {
+      "animeTitle": "Kami no Niwatsuki Kusunoki-tei",
+      "episode": 6
+    },
+    {
+      "animeTitle": "Kami no Niwatsuki Kusunoki-tei",
+      "episode": 5
+    },
+    {
+      "animeTitle": "Kami no Niwatsuki Kusunoki-tei",
+      "episode": 4
+    },
+    {
+      "animeTitle": "Kami no Niwatsuki Kusunoki-tei",
+      "episode": 3
+    },
+    {
+      "animeTitle": "Kami no Niwatsuki Kusunoki-tei",
+      "episode": 2
+    },
+    {
+      "animeTitle": "Kami no Niwatsuki Kusunoki-tei",
+      "episode": 1
+    },
+    {
+      "animeTitle": "Mao",
+      "episode": 6
+    },
+    {
+      "animeTitle": "Mao",
+      "episode": 5
+    },
+    {
+      "animeTitle": "Mao",
+      "episode": 4
+    },
+    {
+      "animeTitle": "Mao",
+      "episode": 3
+    },
+    {
+      "animeTitle": "Mao",
+      "episode": 2
+    },
+    {
+      "animeTitle": "Mao",
+      "episode": 1
+    },
+    {
+      "animeTitle": "Akane-banashi",
+      "episode": 6
+    },
+    {
+      "animeTitle": "Akane-banashi",
+      "episode": 5
+    },
+    {
+      "animeTitle": "Akane-banashi",
+      "episode": 4
+    },
+    {
+      "animeTitle": "Akane-banashi",
+      "episode": 3
+    },
+    {
+      "animeTitle": "Akane-banashi",
+      "episode": 2
+    },
+    {
+      "animeTitle": "Akane-banashi",
+      "episode": 1
+    },
+    {
+      "animeTitle": "Yomi no Tsugai",
+      "episode": 6
+    },
+    {
+      "animeTitle": "Yomi no Tsugai",
+      "episode": 5
+    },
+    {
+      "animeTitle": "Yomi no Tsugai",
+      "episode": 4
+    },
+    {
+      "animeTitle": "Yomi no Tsugai",
+      "episode": 3
+    },
+    {
+      "animeTitle": "Yomi no Tsugai",
+      "episode": 2
+    },
+    {
+      "animeTitle": "Yomi no Tsugai",
+      "episode": 1
+    },
+    {
+      "animeTitle": "Kanan-sama wa Akumade Choroi",
+      "episode": 6
+    },
+    {
+      "animeTitle": "Kanan-sama wa Akumade Choroi",
+      "episode": 5
+    },
+    {
+      "animeTitle": "Kanan-sama wa Akumade Choroi",
+      "episode": 4
+    },
+    {
+      "animeTitle": "Kanan-sama wa Akumade Choroi",
+      "episode": 3
+    },
+    {
+      "animeTitle": "Kanan-sama wa Akumade Choroi",
+      "episode": 2
+    },
+    {
+      "animeTitle": "Kanan-sama wa Akumade Choroi",
+      "episode": 1
+    },
+    {
+      "animeTitle": "Onegai AiPri",
+      "episode": 5
+    },
+    {
+      "animeTitle": "Onegai AiPri",
+      "episode": 4
+    },
+    {
+      "animeTitle": "Onegai AiPri",
+      "episode": 3
+    },
+    {
+      "animeTitle": "Onegai AiPri",
+      "episode": 2
+    },
+    {
+      "animeTitle": "Onegai AiPri",
+      "episode": 1
+    },
+    {
+      "animeTitle": "Yowayowa Sensei",
+      "episode": 5
+    },
+    {
+      "animeTitle": "Yowayowa Sensei",
+      "episode": 4
+    },
+    {
+      "animeTitle": "Yowayowa Sensei",
+      "episode": 3
+    },
+    {
+      "animeTitle": "Yowayowa Sensei",
+      "episode": 2
+    },
+    {
+      "animeTitle": "Yowayowa Sensei",
+      "episode": 1
+    },
+    {
+      "animeTitle": "Daikenja Riddle no Jikan Gyakkou",
+      "episode": 6
+    },
+    {
+      "animeTitle": "Daikenja Riddle no Jikan Gyakkou",
+      "episode": 5
+    },
+    {
+      "animeTitle": "Daikenja Riddle no Jikan Gyakkou",
+      "episode": 4
+    },
+    {
+      "animeTitle": "Daikenja Riddle no Jikan Gyakkou",
+      "episode": 3
+    },
+    {
+      "animeTitle": "Daikenja Riddle no Jikan Gyakkou",
+      "episode": 2
+    },
+    {
+      "animeTitle": "Daikenja Riddle no Jikan Gyakkou",
+      "episode": 1
+    },
+    {
+      "animeTitle": "Mairimashita! Iruma-kun 4th Season",
+      "episode": 6
+    },
+    {
+      "animeTitle": "Mairimashita! Iruma-kun 4th Season",
+      "episode": 5
+    },
+    {
+      "animeTitle": "Mairimashita! Iruma-kun 4th Season",
+      "episode": 4
+    },
+    {
+      "animeTitle": "Mairimashita! Iruma-kun 4th Season",
+      "episode": 3
+    },
+    {
+      "animeTitle": "Mairimashita! Iruma-kun 4th Season",
+      "episode": 2
+    },
+    {
+      "animeTitle": "Mairimashita! Iruma-kun 4th Season",
+      "episode": 1
+    },
+    {
+      "animeTitle": "Saikyou no Shokugyou wa Yuusha demo Kenja demo Naku Kanteishi (Kari) Rashii desu yo?",
+      "episode": 7
+    },
+    {
+      "animeTitle": "Saikyou no Shokugyou wa Yuusha demo Kenja demo Naku Kanteishi (Kari) Rashii desu yo?",
+      "episode": 6
+    },
+    {
+      "animeTitle": "Saikyou no Shokugyou wa Yuusha demo Kenja demo Naku Kanteishi (Kari) Rashii desu yo?",
+      "episode": 5
+    },
+    {
+      "animeTitle": "Saikyou no Shokugyou wa Yuusha demo Kenja demo Naku Kanteishi (Kari) Rashii desu yo?",
+      "episode": 4
+    },
+    {
+      "animeTitle": "Saikyou no Shokugyou wa Yuusha demo Kenja demo Naku Kanteishi (Kari) Rashii desu yo?",
+      "episode": 3
+    },
+    {
+      "animeTitle": "Saikyou no Shokugyou wa Yuusha demo Kenja demo Naku Kanteishi (Kari) Rashii desu yo?",
+      "episode": 2
+    },
+    {
+      "animeTitle": "Saikyou no Shokugyou wa Yuusha demo Kenja demo Naku Kanteishi (Kari) Rashii desu yo?",
+      "episode": 1
+    },
+    {
+      "animeTitle": "Kill Ao",
+      "episode": 5
+    },
+    {
+      "animeTitle": "Kill Ao",
+      "episode": 4
+    },
+    {
+      "animeTitle": "Kill Ao",
+      "episode": 3
+    },
+    {
+      "animeTitle": "Kill Ao",
+      "episode": 2
+    },
+    {
+      "animeTitle": "Kill Ao",
+      "episode": 1
+    },
+    {
+      "animeTitle": "Mahou no Shimai Lulutto Lilly",
+      "episode": 5
+    },
+    {
+      "animeTitle": "Mahou no Shimai Lulutto Lilly",
+      "episode": 4
+    },
+    {
+      "animeTitle": "Mahou no Shimai Lulutto Lilly",
+      "episode": 3
+    },
+    {
+      "animeTitle": "Mahou no Shimai Lulutto Lilly",
+      "episode": 2
+    },
+    {
+      "animeTitle": "Mahou no Shimai Lulutto Lilly",
+      "episode": 1
+    },
+    {
+      "animeTitle": "Ganbare! Nakamura-kun!!",
+      "episode": 8
+    },
+    {
+      "animeTitle": "Ganbare! Nakamura-kun!!",
+      "episode": 7
+    },
+    {
+      "animeTitle": "Ganbare! Nakamura-kun!!",
+      "episode": 6
+    },
+    {
+      "animeTitle": "Ganbare! Nakamura-kun!!",
+      "episode": 5
+    },
+    {
+      "animeTitle": "Ganbare! Nakamura-kun!!",
+      "episode": 4
+    },
+    {
+      "animeTitle": "Ganbare! Nakamura-kun!!",
+      "episode": 3
+    },
+    {
+      "animeTitle": "Ganbare! Nakamura-kun!!",
+      "episode": 2
+    },
+    {
+      "animeTitle": "Ganbare! Nakamura-kun!!",
+      "episode": 1
+    },
+    {
+      "animeTitle": "Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru? Season 2",
+      "episode": 7
+    },
+    {
+      "animeTitle": "Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru? Season 2",
+      "episode": 6
+    },
+    {
+      "animeTitle": "Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru? Season 2",
+      "episode": 5
+    },
+    {
+      "animeTitle": "Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru? Season 2",
+      "episode": 4
+    },
+    {
+      "animeTitle": "Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru? Season 2",
+      "episode": 3
+    },
+    {
+      "animeTitle": "Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru? Season 2",
+      "episode": 2
+    },
+    {
+      "animeTitle": "Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru? Season 2",
+      "episode": 1
+    },
+    {
+      "animeTitle": "Nigashita Sakana wa Ookikatta ga Tsuriageta Sakana ga Ookisugita Ken",
+      "episode": 7
+    },
+    {
+      "animeTitle": "Nigashita Sakana wa Ookikatta ga Tsuriageta Sakana ga Ookisugita Ken",
+      "episode": 6
+    },
+    {
+      "animeTitle": "Nigashita Sakana wa Ookikatta ga Tsuriageta Sakana ga Ookisugita Ken",
+      "episode": 5
+    },
+    {
+      "animeTitle": "Nigashita Sakana wa Ookikatta ga Tsuriageta Sakana ga Ookisugita Ken",
+      "episode": 4
+    },
+    {
+      "animeTitle": "Nigashita Sakana wa Ookikatta ga Tsuriageta Sakana ga Ookisugita Ken",
+      "episode": 3
+    },
+    {
+      "animeTitle": "Nigashita Sakana wa Ookikatta ga Tsuriageta Sakana ga Ookisugita Ken",
+      "episode": 2
+    },
+    {
+      "animeTitle": "Nigashita Sakana wa Ookikatta ga Tsuriageta Sakana ga Ookisugita Ken",
+      "episode": 1
+    },
+    {
+      "animeTitle": "Otaku ni Yasashii Gal wa Inai!?",
+      "episode": 6
+    },
+    {
+      "animeTitle": "Otaku ni Yasashii Gal wa Inai!?",
+      "episode": 5
+    },
+    {
+      "animeTitle": "Otaku ni Yasashii Gal wa Inai!?",
+      "episode": 4
+    },
+    {
+      "animeTitle": "Otaku ni Yasashii Gal wa Inai!?",
+      "episode": 3
+    },
+    {
+      "animeTitle": "Otaku ni Yasashii Gal wa Inai!?",
+      "episode": 2
+    },
+    {
+      "animeTitle": "Otaku ni Yasashii Gal wa Inai!?",
+      "episode": 1
+    },
+    {
+      "animeTitle": "Re:Zero kara Hajimeru Isekai Seikatsu 4th Season",
+      "episode": 6
+    },
+    {
+      "animeTitle": "Re:Zero kara Hajimeru Isekai Seikatsu 4th Season",
+      "episode": 5
+    },
+    {
+      "animeTitle": "Re:Zero kara Hajimeru Isekai Seikatsu 4th Season",
+      "episode": 4
+    },
+    {
+      "animeTitle": "Re:Zero kara Hajimeru Isekai Seikatsu 4th Season",
+      "episode": 3
+    },
+    {
+      "animeTitle": "Re:Zero kara Hajimeru Isekai Seikatsu 4th Season",
+      "episode": 2
+    },
+    {
+      "animeTitle": "Re:Zero kara Hajimeru Isekai Seikatsu 4th Season",
+      "episode": 1
+    },
+    {
+      "animeTitle": "Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 3rd Season",
+      "episode": 7
+    },
+    {
+      "animeTitle": "Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 3rd Season",
+      "episode": 6
+    },
+    {
+      "animeTitle": "Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 3rd Season",
+      "episode": 5
+    },
+    {
+      "animeTitle": "Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 3rd Season",
+      "episode": 4
+    },
+    {
+      "animeTitle": "Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 3rd Season",
+      "episode": 3
+    },
+    {
+      "animeTitle": "Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 3rd Season",
+      "episode": 2
+    },
+    {
+      "animeTitle": "Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 3rd Season",
+      "episode": 1
+    },
+    {
+      "animeTitle": "Dorohedoro Season 2",
+      "episode": 9
+    },
+    {
+      "animeTitle": "Dorohedoro Season 2",
+      "episode": 8
+    },
+    {
+      "animeTitle": "Dorohedoro Season 2",
+      "episode": 7
+    },
+    {
+      "animeTitle": "Dorohedoro Season 2",
+      "episode": 6
+    },
+    {
+      "animeTitle": "Dorohedoro Season 2",
+      "episode": 5
+    },
+    {
+      "animeTitle": "Dorohedoro Season 2",
+      "episode": 4
+    },
+    {
+      "animeTitle": "Dorohedoro Season 2",
+      "episode": 3
+    },
+    {
+      "animeTitle": "Dorohedoro Season 2",
+      "episode": 2
+    },
+    {
+      "animeTitle": "Dorohedoro Season 2",
+      "episode": 1
+    },
+    {
+      "animeTitle": "Kanojo, Okarishimasu 5th Season",
+      "episode": 6
+    },
+    {
+      "animeTitle": "Kanojo, Okarishimasu 5th Season",
+      "episode": 5
+    },
+    {
+      "animeTitle": "Kanojo, Okarishimasu 5th Season",
+      "episode": 4
+    },
+    {
+      "animeTitle": "Kanojo, Okarishimasu 5th Season",
+      "episode": 3
+    },
+    {
+      "animeTitle": "Kanojo, Okarishimasu 5th Season",
+      "episode": 2
+    },
+    {
+      "animeTitle": "Kanojo, Okarishimasu 5th Season",
+      "episode": 1
+    },
+    {
+      "animeTitle": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 4th Season: 2-nensei-hen 1 Gakki",
+      "episode": 10
+    },
+    {
+      "animeTitle": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 4th Season: 2-nensei-hen 1 Gakki",
+      "episode": 9
+    },
+    {
+      "animeTitle": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 4th Season: 2-nensei-hen 1 Gakki",
+      "episode": 8
+    },
+    {
+      "animeTitle": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 4th Season: 2-nensei-hen 1 Gakki",
+      "episode": 7
+    },
+    {
+      "animeTitle": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 4th Season: 2-nensei-hen 1 Gakki",
+      "episode": 6
+    },
+    {
+      "animeTitle": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 4th Season: 2-nensei-hen 1 Gakki",
+      "episode": 5
+    },
+    {
+      "animeTitle": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 4th Season: 2-nensei-hen 1 Gakki",
+      "episode": 4
+    },
+    {
+      "animeTitle": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 4th Season: 2-nensei-hen 1 Gakki",
+      "episode": 3
+    },
+    {
+      "animeTitle": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 4th Season: 2-nensei-hen 1 Gakki",
+      "episode": 2
+    },
+    {
+      "animeTitle": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 4th Season: 2-nensei-hen 1 Gakki",
+      "episode": 1
+    },
+    {
+      "animeTitle": "Megami \"Isekai Tensei Nani ni Naritai desu ka\" Ore \"Yuusha no Rokkotsu de\"",
+      "episode": 6
+    },
+    {
+      "animeTitle": "Megami \"Isekai Tensei Nani ni Naritai desu ka\" Ore \"Yuusha no Rokkotsu de\"",
+      "episode": 5
+    },
+    {
+      "animeTitle": "Megami \"Isekai Tensei Nani ni Naritai desu ka\" Ore \"Yuusha no Rokkotsu de\"",
+      "episode": 4
+    },
+    {
+      "animeTitle": "Megami \"Isekai Tensei Nani ni Naritai desu ka\" Ore \"Yuusha no Rokkotsu de\"",
+      "episode": 3
+    },
+    {
+      "animeTitle": "Megami \"Isekai Tensei Nani ni Naritai desu ka\" Ore \"Yuusha no Rokkotsu de\"",
+      "episode": 2
+    },
+    {
+      "animeTitle": "Megami \"Isekai Tensei Nani ni Naritai desu ka\" Ore \"Yuusha no Rokkotsu de\"",
+      "episode": 1
+    },
+    {
+      "animeTitle": "Tadaima, Ojamasaremasu!",
+      "episode": 6
+    },
+    {
+      "animeTitle": "Tadaima, Ojamasaremasu!",
+      "episode": 5
+    },
+    {
+      "animeTitle": "Tadaima, Ojamasaremasu!",
+      "episode": 4
+    },
+    {
+      "animeTitle": "Tadaima, Ojamasaremasu!",
+      "episode": 3
+    },
+    {
+      "animeTitle": "Tadaima, Ojamasaremasu!",
+      "episode": 2
+    },
+    {
+      "animeTitle": "Tadaima, Ojamasaremasu!",
+      "episode": 1
+    },
+    {
+      "animeTitle": "Hidarikiki no Eren",
+      "episode": 6
+    },
+    {
+      "animeTitle": "Hidarikiki no Eren",
+      "episode": 5
+    },
+    {
+      "animeTitle": "Hidarikiki no Eren",
+      "episode": 4
+    },
+    {
+      "animeTitle": "Hidarikiki no Eren",
+      "episode": 3
+    },
+    {
+      "animeTitle": "Hidarikiki no Eren",
+      "episode": 2
+    },
+    {
+      "animeTitle": "Hidarikiki no Eren",
+      "episode": 1
+    },
+    {
+      "animeTitle": "Class de 2-banme ni Kawaii Onnanoko to Tomodachi ni Natta",
+      "episode": 6
+    },
+    {
+      "animeTitle": "Class de 2-banme ni Kawaii Onnanoko to Tomodachi ni Natta",
+      "episode": 5
+    },
+    {
+      "animeTitle": "Class de 2-banme ni Kawaii Onnanoko to Tomodachi ni Natta",
+      "episode": 4
+    },
+    {
+      "animeTitle": "Class de 2-banme ni Kawaii Onnanoko to Tomodachi ni Natta",
+      "episode": 3
+    },
+    {
+      "animeTitle": "Class de 2-banme ni Kawaii Onnanoko to Tomodachi ni Natta",
+      "episode": 2
+    },
+    {
+      "animeTitle": "Class de 2-banme ni Kawaii Onnanoko to Tomodachi ni Natta",
+      "episode": 1
+    },
+    {
+      "animeTitle": "Replica datte, Koi wo Suru.",
+      "episode": 6
+    },
+    {
+      "animeTitle": "Replica datte, Koi wo Suru.",
+      "episode": 5
+    },
+    {
+      "animeTitle": "Replica datte, Koi wo Suru.",
+      "episode": 4
+    },
+    {
+      "animeTitle": "Replica datte, Koi wo Suru.",
+      "episode": 3
+    },
+    {
+      "animeTitle": "Replica datte, Koi wo Suru.",
+      "episode": 2
+    },
+    {
+      "animeTitle": "Replica datte, Koi wo Suru.",
+      "episode": 1
+    },
+    {
+      "animeTitle": "Aishiteru Game wo Owarasetai",
+      "episode": 5
+    },
+    {
+      "animeTitle": "Aishiteru Game wo Owarasetai",
+      "episode": 4
+    },
+    {
+      "animeTitle": "Aishiteru Game wo Owarasetai",
+      "episode": 3
+    },
+    {
+      "animeTitle": "Aishiteru Game wo Owarasetai",
+      "episode": 2
+    },
+    {
+      "animeTitle": "Aishiteru Game wo Owarasetai",
+      "episode": 1
+    },
+    {
+      "animeTitle": "Marriagetoxin",
+      "episode": 6
+    },
+    {
+      "animeTitle": "Marriagetoxin",
+      "episode": 5
+    },
+    {
+      "animeTitle": "Marriagetoxin",
+      "episode": 4
+    },
+    {
+      "animeTitle": "Marriagetoxin",
+      "episode": 3
+    },
+    {
+      "animeTitle": "Marriagetoxin",
+      "episode": 2
+    },
+    {
+      "animeTitle": "Marriagetoxin",
+      "episode": 1
+    },
+    {
+      "animeTitle": "Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Tami no Tame ni Tsukushimasu. Season 2",
+      "episode": 6
+    },
+    {
+      "animeTitle": "Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Tami no Tame ni Tsukushimasu. Season 2",
+      "episode": 5
+    },
+    {
+      "animeTitle": "Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Tami no Tame ni Tsukushimasu. Season 2",
+      "episode": 4
+    },
+    {
+      "animeTitle": "Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Tami no Tame ni Tsukushimasu. Season 2",
+      "episode": 3
+    },
+    {
+      "animeTitle": "Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Tami no Tame ni Tsukushimasu. Season 2",
+      "episode": 2
+    },
+    {
+      "animeTitle": "Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Tami no Tame ni Tsukushimasu. Season 2",
+      "episode": 1
+    },
+    {
+      "animeTitle": "Hyakki Yakoushou",
+      "episode": 6
+    },
+    {
+      "animeTitle": "Hyakki Yakoushou",
+      "episode": 5
+    },
+    {
+      "animeTitle": "Hyakki Yakoushou",
+      "episode": 4
+    },
+    {
+      "animeTitle": "Hyakki Yakoushou",
+      "episode": 3
+    },
+    {
+      "animeTitle": "Hyakki Yakoushou",
+      "episode": 2
+    },
+    {
+      "animeTitle": "Hyakki Yakoushou",
+      "episode": 1
+    },
+    {
+      "animeTitle": "Liar Game",
+      "episode": 6
+    },
+    {
+      "animeTitle": "Liar Game",
+      "episode": 5
+    },
+    {
+      "animeTitle": "Liar Game",
+      "episode": 4
+    },
+    {
+      "animeTitle": "Liar Game",
+      "episode": 3
+    },
+    {
+      "animeTitle": "Liar Game",
+      "episode": 2
+    },
+    {
+      "animeTitle": "Liar Game",
+      "episode": 1
+    },
+    {
+      "animeTitle": "Ponkotsu Fuuki Iin to Skirt-take ga Futekisetsu na JK no Hanashi",
+      "episode": 6
+    },
+    {
+      "animeTitle": "Ponkotsu Fuuki Iin to Skirt-take ga Futekisetsu na JK no Hanashi",
+      "episode": 5
+    },
+    {
+      "animeTitle": "Ponkotsu Fuuki Iin to Skirt-take ga Futekisetsu na JK no Hanashi",
+      "episode": 4
+    },
+    {
+      "animeTitle": "Ponkotsu Fuuki Iin to Skirt-take ga Futekisetsu na JK no Hanashi",
+      "episode": 3
+    },
+    {
+      "animeTitle": "Ponkotsu Fuuki Iin to Skirt-take ga Futekisetsu na JK no Hanashi",
+      "episode": 2
+    },
+    {
+      "animeTitle": "Ponkotsu Fuuki Iin to Skirt-take ga Futekisetsu na JK no Hanashi",
+      "episode": 1
+    },
+    {
+      "animeTitle": "Cong Gu Huo Niao Kaishi: Long Cheng Fengyun",
+      "episode": 16
+    },
+    {
+      "animeTitle": "Cong Gu Huo Niao Kaishi: Long Cheng Fengyun",
+      "episode": 15
+    },
+    {
+      "animeTitle": "Cong Gu Huo Niao Kaishi: Long Cheng Fengyun",
+      "episode": 14
+    },
+    {
+      "animeTitle": "Cong Gu Huo Niao Kaishi: Long Cheng Fengyun",
+      "episode": 13
+    },
+    {
+      "animeTitle": "Cong Gu Huo Niao Kaishi: Long Cheng Fengyun",
+      "episode": 12
+    },
+    {
+      "animeTitle": "Cong Gu Huo Niao Kaishi: Long Cheng Fengyun",
+      "episode": 11
+    },
+    {
+      "animeTitle": "Cong Gu Huo Niao Kaishi: Long Cheng Fengyun",
+      "episode": 10
+    },
+    {
+      "animeTitle": "Cong Gu Huo Niao Kaishi: Long Cheng Fengyun",
+      "episode": 9
+    },
+    {
+      "animeTitle": "Cong Gu Huo Niao Kaishi: Long Cheng Fengyun",
+      "episode": 8
+    },
+    {
+      "animeTitle": "Cong Gu Huo Niao Kaishi: Long Cheng Fengyun",
+      "episode": 7
+    },
+    {
+      "animeTitle": "Cong Gu Huo Niao Kaishi: Long Cheng Fengyun",
+      "episode": 6
+    },
+    {
+      "animeTitle": "Cong Gu Huo Niao Kaishi: Long Cheng Fengyun",
+      "episode": 5
+    },
+    {
+      "animeTitle": "Cong Gu Huo Niao Kaishi: Long Cheng Fengyun",
+      "episode": 4
+    },
+    {
+      "animeTitle": "Cong Gu Huo Niao Kaishi: Long Cheng Fengyun",
+      "episode": 3
+    },
+    {
+      "animeTitle": "Cong Gu Huo Niao Kaishi: Long Cheng Fengyun",
+      "episode": 2
+    },
+    {
+      "animeTitle": "Cong Gu Huo Niao Kaishi: Long Cheng Fengyun",
+      "episode": 1
+    },
+    {
+      "animeTitle": "Jin Can Wangshi",
+      "episode": 16
+    },
+    {
+      "animeTitle": "Jin Can Wangshi",
+      "episode": 15
+    },
+    {
+      "animeTitle": "Jin Can Wangshi",
+      "episode": 14
+    },
+    {
+      "animeTitle": "Jin Can Wangshi",
+      "episode": 13
+    },
+    {
+      "animeTitle": "Wuliao Jiu Wanjie",
+      "episode": 16
+    },
+    {
+      "animeTitle": "Wuliao Jiu Wanjie",
+      "episode": 15
+    },
+    {
+      "animeTitle": "Wuliao Jiu Wanjie",
+      "episode": 14
+    },
+    {
+      "animeTitle": "Wuliao Jiu Wanjie",
+      "episode": 13
+    },
+    {
+      "animeTitle": "One Piece",
+      "episode": 1161
+    }
+  ],
   "removedEpisodes": [],
   "addedUrls": [
     {
-      "animeTitle": "Yami Shibai 15",
+      "animeTitle": "Digimon Beatbreak",
+      "episode": 30,
+      "page": "JKAnime",
+      "url": "https://www.jkanime.net/digimon-beatbreak/30/"
+    },
+    {
+      "animeTitle": "Digimon Beatbreak",
+      "episode": 29,
+      "page": "JKAnime",
+      "url": "https://www.jkanime.net/digimon-beatbreak/29"
+    },
+    {
+      "animeTitle": "Digimon Beatbreak",
+      "episode": 28,
+      "page": "JKAnime",
+      "url": "https://www.jkanime.net/digimon-beatbreak/28"
+    },
+    {
+      "animeTitle": "Digimon Beatbreak",
+      "episode": 27,
+      "page": "JKAnime",
+      "url": "https://www.jkanime.net/digimon-beatbreak/27"
+    },
+    {
+      "animeTitle": "Digimon Beatbreak",
+      "episode": 26,
+      "page": "JKAnime",
+      "url": "https://www.jkanime.net/digimon-beatbreak/26"
+    },
+    {
+      "animeTitle": "Digimon Beatbreak",
+      "episode": 25,
+      "page": "JKAnime",
+      "url": "https://www.jkanime.net/digimon-beatbreak/25"
+    },
+    {
+      "animeTitle": "Digimon Beatbreak",
+      "episode": 24,
+      "page": "JKAnime",
+      "url": "https://www.jkanime.net/digimon-beatbreak/24"
+    },
+    {
+      "animeTitle": "Digimon Beatbreak",
+      "episode": 23,
+      "page": "JKAnime",
+      "url": "https://www.jkanime.net/digimon-beatbreak/23"
+    },
+    {
+      "animeTitle": "Digimon Beatbreak",
+      "episode": 22,
+      "page": "JKAnime",
+      "url": "https://www.jkanime.net/digimon-beatbreak/22"
+    },
+    {
+      "animeTitle": "Digimon Beatbreak",
+      "episode": 21,
+      "page": "JKAnime",
+      "url": "https://www.jkanime.net/digimon-beatbreak/21"
+    },
+    {
+      "animeTitle": "Digimon Beatbreak",
+      "episode": 20,
+      "page": "JKAnime",
+      "url": "https://www.jkanime.net/digimon-beatbreak/20"
+    },
+    {
+      "animeTitle": "Digimon Beatbreak",
+      "episode": 19,
+      "page": "JKAnime",
+      "url": "https://www.jkanime.net/digimon-beatbreak/19"
+    },
+    {
+      "animeTitle": "Digimon Beatbreak",
+      "episode": 18,
+      "page": "JKAnime",
+      "url": "https://www.jkanime.net/digimon-beatbreak/18"
+    },
+    {
+      "animeTitle": "Digimon Beatbreak",
+      "episode": 17,
+      "page": "JKAnime",
+      "url": "https://www.jkanime.net/digimon-beatbreak/17"
+    },
+    {
+      "animeTitle": "Digimon Beatbreak",
+      "episode": 16,
+      "page": "JKAnime",
+      "url": "https://www.jkanime.net/digimon-beatbreak/16"
+    },
+    {
+      "animeTitle": "Digimon Beatbreak",
+      "episode": 15,
+      "page": "JKAnime",
+      "url": "https://www.jkanime.net/digimon-beatbreak/15"
+    },
+    {
+      "animeTitle": "Digimon Beatbreak",
+      "episode": 14,
+      "page": "JKAnime",
+      "url": "https://www.jkanime.net/digimon-beatbreak/14"
+    },
+    {
+      "animeTitle": "Digimon Beatbreak",
+      "episode": 13,
+      "page": "JKAnime",
+      "url": "https://www.jkanime.net/digimon-beatbreak/13"
+    },
+    {
+      "animeTitle": "Digimon Beatbreak",
+      "episode": 12,
+      "page": "JKAnime",
+      "url": "https://www.jkanime.net/digimon-beatbreak/12"
+    },
+    {
+      "animeTitle": "Digimon Beatbreak",
+      "episode": 11,
+      "page": "JKAnime",
+      "url": "https://www.jkanime.net/digimon-beatbreak/11"
+    },
+    {
+      "animeTitle": "Digimon Beatbreak",
+      "episode": 10,
+      "page": "JKAnime",
+      "url": "https://www.jkanime.net/digimon-beatbreak/10"
+    },
+    {
+      "animeTitle": "Digimon Beatbreak",
+      "episode": 9,
+      "page": "JKAnime",
+      "url": "https://www.jkanime.net/digimon-beatbreak/9"
+    },
+    {
+      "animeTitle": "Digimon Beatbreak",
+      "episode": 8,
+      "page": "JKAnime",
+      "url": "https://www.jkanime.net/digimon-beatbreak/8"
+    },
+    {
+      "animeTitle": "Digimon Beatbreak",
+      "episode": 7,
+      "page": "JKAnime",
+      "url": "https://www.jkanime.net/digimon-beatbreak/7"
+    },
+    {
+      "animeTitle": "Digimon Beatbreak",
+      "episode": 6,
+      "page": "JKAnime",
+      "url": "https://www.jkanime.net/digimon-beatbreak/6"
+    },
+    {
+      "animeTitle": "Digimon Beatbreak",
+      "episode": 5,
+      "page": "JKAnime",
+      "url": "https://www.jkanime.net/digimon-beatbreak/5"
+    },
+    {
+      "animeTitle": "Digimon Beatbreak",
+      "episode": 4,
+      "page": "JKAnime",
+      "url": "https://www.jkanime.net/digimon-beatbreak/4"
+    },
+    {
+      "animeTitle": "Digimon Beatbreak",
+      "episode": 3,
+      "page": "JKAnime",
+      "url": "https://www.jkanime.net/digimon-beatbreak/3"
+    },
+    {
+      "animeTitle": "Digimon Beatbreak",
+      "episode": 2,
+      "page": "JKAnime",
+      "url": "https://www.jkanime.net/digimon-beatbreak/2"
+    },
+    {
+      "animeTitle": "Digimon Beatbreak",
+      "episode": 1,
+      "page": "JKAnime",
+      "url": "https://www.jkanime.net/digimon-beatbreak/1"
+    },
+    {
+      "animeTitle": "Meitantei Precure!",
+      "episode": 15,
+      "page": "JKAnime",
+      "url": "https://www.jkanime.net/meitantei-precure/15/"
+    },
+    {
+      "animeTitle": "Meitantei Precure!",
+      "episode": 14,
+      "page": "JKAnime",
+      "url": "https://www.jkanime.net/meitantei-precure/14"
+    },
+    {
+      "animeTitle": "Meitantei Precure!",
+      "episode": 13,
+      "page": "JKAnime",
+      "url": "https://www.jkanime.net/meitantei-precure/13"
+    },
+    {
+      "animeTitle": "Meitantei Precure!",
+      "episode": 12,
+      "page": "JKAnime",
+      "url": "https://www.jkanime.net/meitantei-precure/12"
+    },
+    {
+      "animeTitle": "Meitantei Precure!",
+      "episode": 11,
+      "page": "JKAnime",
+      "url": "https://www.jkanime.net/meitantei-precure/11"
+    },
+    {
+      "animeTitle": "Meitantei Precure!",
+      "episode": 10,
+      "page": "JKAnime",
+      "url": "https://www.jkanime.net/meitantei-precure/10"
+    },
+    {
+      "animeTitle": "Meitantei Precure!",
+      "episode": 9,
+      "page": "JKAnime",
+      "url": "https://www.jkanime.net/meitantei-precure/9"
+    },
+    {
+      "animeTitle": "Meitantei Precure!",
+      "episode": 8,
+      "page": "JKAnime",
+      "url": "https://www.jkanime.net/meitantei-precure/8"
+    },
+    {
+      "animeTitle": "Meitantei Precure!",
+      "episode": 7,
+      "page": "JKAnime",
+      "url": "https://www.jkanime.net/meitantei-precure/7"
+    },
+    {
+      "animeTitle": "Meitantei Precure!",
+      "episode": 6,
+      "page": "JKAnime",
+      "url": "https://www.jkanime.net/meitantei-precure/6"
+    },
+    {
+      "animeTitle": "Meitantei Precure!",
+      "episode": 5,
+      "page": "JKAnime",
+      "url": "https://www.jkanime.net/meitantei-precure/5"
+    },
+    {
+      "animeTitle": "Meitantei Precure!",
+      "episode": 4,
+      "page": "JKAnime",
+      "url": "https://www.jkanime.net/meitantei-precure/4"
+    },
+    {
+      "animeTitle": "Meitantei Precure!",
+      "episode": 3,
+      "page": "JKAnime",
+      "url": "https://www.jkanime.net/meitantei-precure/3"
+    },
+    {
+      "animeTitle": "Meitantei Precure!",
+      "episode": 2,
+      "page": "JKAnime",
+      "url": "https://www.jkanime.net/meitantei-precure/2"
+    },
+    {
+      "animeTitle": "Meitantei Precure!",
+      "episode": 1,
+      "page": "JKAnime",
+      "url": "https://www.jkanime.net/meitantei-precure/1"
+    },
+    {
+      "animeTitle": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 4th Season",
+      "episode": 10,
+      "page": "AnimeFLV",
+      "url": "https://www3.animeflv.net/ver/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-4th-season-10"
+    },
+    {
+      "animeTitle": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 4th Season",
+      "episode": 9,
+      "page": "AnimeFLV",
+      "url": "https://www3.animeflv.net/ver/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-4th-season-9"
+    },
+    {
+      "animeTitle": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 4th Season",
+      "episode": 8,
+      "page": "AnimeFLV",
+      "url": "https://www3.animeflv.net/ver/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-4th-season-8"
+    },
+    {
+      "animeTitle": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 4th Season",
+      "episode": 7,
+      "page": "AnimeFLV",
+      "url": "https://www3.animeflv.net/ver/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-4th-season-7"
+    },
+    {
+      "animeTitle": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 4th Season",
+      "episode": 6,
+      "page": "AnimeFLV",
+      "url": "https://www3.animeflv.net/ver/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-4th-season-6"
+    },
+    {
+      "animeTitle": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 4th Season",
+      "episode": 5,
+      "page": "AnimeFLV",
+      "url": "https://www3.animeflv.net/ver/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-4th-season-5"
+    },
+    {
+      "animeTitle": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 4th Season",
+      "episode": 4,
+      "page": "AnimeFLV",
+      "url": "https://www3.animeflv.net/ver/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-4th-season-4"
+    },
+    {
+      "animeTitle": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 4th Season",
+      "episode": 3,
+      "page": "AnimeFLV",
+      "url": "https://www3.animeflv.net/ver/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-4th-season-3"
+    },
+    {
+      "animeTitle": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 4th Season",
+      "episode": 2,
+      "page": "AnimeFLV",
+      "url": "https://www3.animeflv.net/ver/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-4th-season-2"
+    },
+    {
+      "animeTitle": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 4th Season",
+      "episode": 1,
+      "page": "AnimeFLV",
+      "url": "https://www3.animeflv.net/ver/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-4th-season-1"
+    },
+    {
+      "animeTitle": "LasTame S2",
+      "episode": 6,
+      "page": "AnimeFLV",
+      "url": "https://www3.animeflv.net/ver/lastame-s2-6"
+    },
+    {
+      "animeTitle": "LasTame S2",
+      "episode": 5,
+      "page": "AnimeFLV",
+      "url": "https://www3.animeflv.net/ver/lastame-s2-5"
+    },
+    {
+      "animeTitle": "LasTame S2",
+      "episode": 4,
+      "page": "AnimeFLV",
+      "url": "https://www3.animeflv.net/ver/lastame-s2-4"
+    },
+    {
+      "animeTitle": "LasTame S2",
+      "episode": 3,
+      "page": "AnimeFLV",
+      "url": "https://www3.animeflv.net/ver/lastame-s2-3"
+    },
+    {
+      "animeTitle": "LasTame S2",
+      "episode": 2,
+      "page": "AnimeFLV",
+      "url": "https://www3.animeflv.net/ver/lastame-s2-2"
+    },
+    {
+      "animeTitle": "LasTame S2",
+      "episode": 1,
+      "page": "AnimeFLV",
+      "url": "https://www3.animeflv.net/ver/lastame-s2-1"
+    },
+    {
+      "animeTitle": "Ingoku Danchi",
+      "episode": 6,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/ingoku-danchi-6"
+    },
+    {
+      "animeTitle": "Ingoku Danchi",
+      "episode": 6,
+      "page": "JKAnime",
+      "url": "https://www.jkanime.net/ingoku-danchi/6/"
+    },
+    {
+      "animeTitle": "Ingoku Danchi",
+      "episode": 5,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/ingoku-danchi-5"
+    },
+    {
+      "animeTitle": "Ingoku Danchi",
+      "episode": 4,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/ingoku-danchi-4"
+    },
+    {
+      "animeTitle": "Ingoku Danchi",
+      "episode": 3,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/ingoku-danchi-3"
+    },
+    {
+      "animeTitle": "Ingoku Danchi",
+      "episode": 2,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/ingoku-danchi-2"
+    },
+    {
+      "animeTitle": "Ingoku Danchi",
+      "episode": 1,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/ingoku-danchi-1"
+    },
+    {
+      "animeTitle": "Isekai Nonbiri Nouka 2",
+      "episode": 6,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/isekai-nonbiri-nouka-2-6"
+    },
+    {
+      "animeTitle": "Isekai Nonbiri Nouka 2",
+      "episode": 6,
+      "page": "JKAnime",
+      "url": "https://www.jkanime.net/isekai-nonbiri-nouka-2/6/"
+    },
+    {
+      "animeTitle": "Isekai Nonbiri Nouka 2",
+      "episode": 6,
+      "page": "AnimeFLV",
+      "url": "https://www3.animeflv.net/ver/isekai-nonbiri-nouka-2-6"
+    },
+    {
+      "animeTitle": "Isekai Nonbiri Nouka 2",
+      "episode": 5,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/isekai-nonbiri-nouka-2-5"
+    },
+    {
+      "animeTitle": "Isekai Nonbiri Nouka 2",
+      "episode": 4,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/isekai-nonbiri-nouka-2-4"
+    },
+    {
+      "animeTitle": "Isekai Nonbiri Nouka 2",
+      "episode": 3,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/isekai-nonbiri-nouka-2-3"
+    },
+    {
+      "animeTitle": "Isekai Nonbiri Nouka 2",
+      "episode": 2,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/isekai-nonbiri-nouka-2-2"
+    },
+    {
+      "animeTitle": "Isekai Nonbiri Nouka 2",
+      "episode": 1,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/isekai-nonbiri-nouka-2-1"
+    },
+    {
+      "animeTitle": "Tongari Boushi no Atelier",
+      "episode": 7,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/tongari-boushi-no-atelier-7"
+    },
+    {
+      "animeTitle": "Tongari Boushi no Atelier",
+      "episode": 7,
+      "page": "JKAnime",
+      "url": "https://www.jkanime.net/tongari-boushi-no-atelier/7/"
+    },
+    {
+      "animeTitle": "Tongari Boushi no Atelier",
+      "episode": 6,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/tongari-boushi-no-atelier-6"
+    },
+    {
+      "animeTitle": "Tongari Boushi no Atelier",
+      "episode": 5,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/tongari-boushi-no-atelier-5"
+    },
+    {
+      "animeTitle": "Tongari Boushi no Atelier",
+      "episode": 4,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/tongari-boushi-no-atelier-4"
+    },
+    {
+      "animeTitle": "Tongari Boushi no Atelier",
+      "episode": 3,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/tongari-boushi-no-atelier-3"
+    },
+    {
+      "animeTitle": "Tongari Boushi no Atelier",
+      "episode": 2,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/tongari-boushi-no-atelier-2"
+    },
+    {
+      "animeTitle": "Tongari Boushi no Atelier",
+      "episode": 1,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/tongari-boushi-no-atelier-1"
+    },
+    {
+      "animeTitle": "Ghost Concert: Missing Songs",
+      "episode": 6,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/ghost-concert-missing-songs-6"
+    },
+    {
+      "animeTitle": "Ghost Concert: Missing Songs",
+      "episode": 6,
+      "page": "JKAnime",
+      "url": "https://www.jkanime.net/ghost-concert-missing-songs/6/"
+    },
+    {
+      "animeTitle": "Ghost Concert: Missing Songs",
+      "episode": 5,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/ghost-concert-missing-songs-5"
+    },
+    {
+      "animeTitle": "Ghost Concert: Missing Songs",
+      "episode": 4,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/ghost-concert-missing-songs-4"
+    },
+    {
+      "animeTitle": "Ghost Concert: Missing Songs",
+      "episode": 3,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/ghost-concert-missing-songs-3"
+    },
+    {
+      "animeTitle": "Ghost Concert: Missing Songs",
+      "episode": 2,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/ghost-concert-missing-songs-2"
+    },
+    {
+      "animeTitle": "Ghost Concert: Missing Songs",
+      "episode": 1,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/ghost-concert-missing-songs-1"
+    },
+    {
+      "animeTitle": "Kuroneko to Majo no Kyoushitsu",
+      "episode": 5,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/kuroneko-to-majo-no-kyoushitsu-5"
+    },
+    {
+      "animeTitle": "Kuroneko to Majo no Kyoushitsu",
+      "episode": 5,
+      "page": "JKAnime",
+      "url": "https://www.jkanime.net/kuroneko-to-majo-no-kyoushitsu/5/"
+    },
+    {
+      "animeTitle": "Kuroneko to Majo no Kyoushitsu",
+      "episode": 4,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/kuroneko-to-majo-no-kyoushitsu-4"
+    },
+    {
+      "animeTitle": "Kuroneko to Majo no Kyoushitsu",
+      "episode": 3,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/kuroneko-to-majo-no-kyoushitsu-3"
+    },
+    {
+      "animeTitle": "Kuroneko to Majo no Kyoushitsu",
+      "episode": 2,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/kuroneko-to-majo-no-kyoushitsu-2"
+    },
+    {
+      "animeTitle": "Kuroneko to Majo no Kyoushitsu",
+      "episode": 1,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/kuroneko-to-majo-no-kyoushitsu-1"
+    },
+    {
+      "animeTitle": "Yozakura-san Chi no Daisakusen 2nd Season",
+      "episode": 5,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/yozakura-s2-5"
+    },
+    {
+      "animeTitle": "Yozakura-san Chi no Daisakusen 2nd Season",
+      "episode": 5,
+      "page": "JKAnime",
+      "url": "https://www.jkanime.net/yozakura-san-chi-no-daisakusen-2nd-season/5/"
+    },
+    {
+      "animeTitle": "Yozakura-san Chi no Daisakusen 2nd Season",
+      "episode": 4,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/yozakura-s2-4"
+    },
+    {
+      "animeTitle": "Yozakura-san Chi no Daisakusen 2nd Season",
+      "episode": 3,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/yozakura-s2-3"
+    },
+    {
+      "animeTitle": "Yozakura-san Chi no Daisakusen 2nd Season",
+      "episode": 2,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/yozakura-s2-2"
+    },
+    {
+      "animeTitle": "Yozakura-san Chi no Daisakusen 2nd Season",
+      "episode": 1,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/yozakura-s2-1"
+    },
+    {
+      "animeTitle": "Tsue to Tsurugi no Wistoria Season 2",
+      "episode": 5,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/tsue-to-tsurugi-no-wistoria-season-2-5"
+    },
+    {
+      "animeTitle": "Tsue to Tsurugi no Wistoria Season 2",
+      "episode": 5,
+      "page": "JKAnime",
+      "url": "https://www.jkanime.net/tsue-to-tsurugi-no-wistoria-season-2/5/"
+    },
+    {
+      "animeTitle": "Tsue to Tsurugi no Wistoria Season 2",
+      "episode": 4,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/tsue-to-tsurugi-no-wistoria-season-2-4"
+    },
+    {
+      "animeTitle": "Tsue to Tsurugi no Wistoria Season 2",
+      "episode": 3,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/tsue-to-tsurugi-no-wistoria-season-2-3"
+    },
+    {
+      "animeTitle": "Tsue to Tsurugi no Wistoria Season 2",
+      "episode": 2,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/tsue-to-tsurugi-no-wistoria-season-2-2"
+    },
+    {
+      "animeTitle": "Tsue to Tsurugi no Wistoria Season 2",
+      "episode": 1,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/tsue-to-tsurugi-no-wistoria-season-2-1"
+    },
+    {
+      "animeTitle": "Niwatori Fighter",
+      "episode": 9,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/niwatori-fighter-9"
+    },
+    {
+      "animeTitle": "Niwatori Fighter",
+      "episode": 9,
+      "page": "JKAnime",
+      "url": "https://www.jkanime.net/niwatori-fighter/9/"
+    },
+    {
+      "animeTitle": "Niwatori Fighter",
+      "episode": 8,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/niwatori-fighter-8"
+    },
+    {
+      "animeTitle": "Niwatori Fighter",
+      "episode": 7,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/niwatori-fighter-7"
+    },
+    {
+      "animeTitle": "Niwatori Fighter",
+      "episode": 6,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/niwatori-fighter-6"
+    },
+    {
+      "animeTitle": "Niwatori Fighter",
+      "episode": 5,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/niwatori-fighter-5"
+    },
+    {
+      "animeTitle": "Niwatori Fighter",
+      "episode": 4,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/niwatori-fighter-4"
+    },
+    {
+      "animeTitle": "Niwatori Fighter",
+      "episode": 3,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/niwatori-fighter-3"
+    },
+    {
+      "animeTitle": "Niwatori Fighter",
+      "episode": 2,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/niwatori-fighter-2"
+    },
+    {
+      "animeTitle": "Niwatori Fighter",
+      "episode": 1,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/niwatori-fighter-1"
+    },
+    {
+      "animeTitle": "Maid-san wa Taberu dake",
+      "episode": 7,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/maid-san-wa-taberu-dake-7"
+    },
+    {
+      "animeTitle": "Maid-san wa Taberu dake",
+      "episode": 7,
+      "page": "JKAnime",
+      "url": "https://www.jkanime.net/maid-san-wa-taberu-dake/7/"
+    },
+    {
+      "animeTitle": "Maid-san wa Taberu dake",
+      "episode": 6,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/maid-san-wa-taberu-dake-6"
+    },
+    {
+      "animeTitle": "Maid-san wa Taberu dake",
+      "episode": 5,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/maid-san-wa-taberu-dake-5"
+    },
+    {
+      "animeTitle": "Maid-san wa Taberu dake",
+      "episode": 4,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/maid-san-wa-taberu-dake-4"
+    },
+    {
+      "animeTitle": "Maid-san wa Taberu dake",
+      "episode": 3,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/maid-san-wa-taberu-dake-3"
+    },
+    {
+      "animeTitle": "Maid-san wa Taberu dake",
+      "episode": 2,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/maid-san-wa-taberu-dake-2"
+    },
+    {
+      "animeTitle": "Maid-san wa Taberu dake",
+      "episode": 1,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/maid-san-wa-taberu-dake-1"
+    },
+    {
+      "animeTitle": "Nippon Sangoku",
+      "episode": 6,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/nippon-sangoku-6"
+    },
+    {
+      "animeTitle": "Nippon Sangoku",
+      "episode": 5,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/nippon-sangoku-5"
+    },
+    {
+      "animeTitle": "Nippon Sangoku",
+      "episode": 4,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/nippon-sangoku-4"
+    },
+    {
+      "animeTitle": "Nippon Sangoku",
+      "episode": 3,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/nippon-sangoku-3"
+    },
+    {
+      "animeTitle": "Nippon Sangoku",
+      "episode": 2,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/nippon-sangoku-2"
+    },
+    {
+      "animeTitle": "Nippon Sangoku",
+      "episode": 1,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/nippon-sangoku-1"
+    },
+    {
+      "animeTitle": "Diamond no Ace: Act II Second Season",
+      "episode": 6,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/diamond-ace-act2-s2-6"
+    },
+    {
+      "animeTitle": "Diamond no Ace: Act II Second Season",
+      "episode": 5,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/diamond-ace-act2-s2-5"
+    },
+    {
+      "animeTitle": "Diamond no Ace: Act II Second Season",
+      "episode": 4,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/diamond-ace-act2-s2-4"
+    },
+    {
+      "animeTitle": "Diamond no Ace: Act II Second Season",
+      "episode": 3,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/diamond-ace-act2-s2-3"
+    },
+    {
+      "animeTitle": "Diamond no Ace: Act II Second Season",
+      "episode": 2,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/diamond-ace-act2-s2-2"
+    },
+    {
+      "animeTitle": "Diamond no Ace: Act II Second Season",
+      "episode": 1,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/diamond-ace-act2-s2-1"
+    },
+    {
+      "animeTitle": "Yuusha no Kuzu",
+      "episode": 17,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/yuusha-no-kuzu-17"
+    },
+    {
+      "animeTitle": "Yuusha no Kuzu",
+      "episode": 16,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/yuusha-no-kuzu-16"
+    },
+    {
+      "animeTitle": "Yuusha no Kuzu",
+      "episode": 15,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/yuusha-no-kuzu-15"
+    },
+    {
+      "animeTitle": "Yuusha no Kuzu",
+      "episode": 14,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/yuusha-no-kuzu-14"
+    },
+    {
+      "animeTitle": "Yuusha no Kuzu",
+      "episode": 13,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/yuusha-no-kuzu-13"
+    },
+    {
+      "animeTitle": "Yuusha no Kuzu",
+      "episode": 12,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/yuusha-no-kuzu-12"
+    },
+    {
+      "animeTitle": "Yuusha no Kuzu",
+      "episode": 11,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/yuusha-no-kuzu-11"
+    },
+    {
+      "animeTitle": "Yuusha no Kuzu",
+      "episode": 10,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/yuusha-no-kuzu-10"
+    },
+    {
+      "animeTitle": "Yuusha no Kuzu",
+      "episode": 9,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/yuusha-no-kuzu-9"
+    },
+    {
+      "animeTitle": "Yuusha no Kuzu",
+      "episode": 8,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/yuusha-no-kuzu-8"
+    },
+    {
+      "animeTitle": "Yuusha no Kuzu",
+      "episode": 7,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/yuusha-no-kuzu-7"
+    },
+    {
+      "animeTitle": "Yuusha no Kuzu",
+      "episode": 6,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/yuusha-no-kuzu-6"
+    },
+    {
+      "animeTitle": "Yuusha no Kuzu",
+      "episode": 5,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/yuusha-no-kuzu-5"
+    },
+    {
+      "animeTitle": "Yuusha no Kuzu",
+      "episode": 4,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/yuusha-no-kuzu-4"
+    },
+    {
+      "animeTitle": "Yuusha no Kuzu",
+      "episode": 3,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/yuusha-no-kuzu-3"
+    },
+    {
+      "animeTitle": "Yuusha no Kuzu",
+      "episode": 2,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/yuusha-no-kuzu-2"
+    },
+    {
+      "animeTitle": "Yuusha no Kuzu",
+      "episode": 1,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/yuusha-no-kuzu-1"
+    },
+    {
+      "animeTitle": "Needy Girl Overdose",
+      "episode": 6,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/needy-girl-overdose-6"
+    },
+    {
+      "animeTitle": "Needy Girl Overdose",
+      "episode": 5,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/needy-girl-overdose-5"
+    },
+    {
+      "animeTitle": "Needy Girl Overdose",
+      "episode": 4,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/needy-girl-overdose-4"
+    },
+    {
+      "animeTitle": "Needy Girl Overdose",
+      "episode": 3,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/needy-girl-overdose-3"
+    },
+    {
+      "animeTitle": "Needy Girl Overdose",
+      "episode": 2,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/needy-girl-overdose-2"
+    },
+    {
+      "animeTitle": "Needy Girl Overdose",
+      "episode": 1,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/needy-girl-overdose-1"
+    },
+    {
+      "animeTitle": "Ichijouma Mankitsugurashi!",
+      "episode": 5,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/ichijouma-mankitsugurashi-5"
+    },
+    {
+      "animeTitle": "Ichijouma Mankitsugurashi!",
+      "episode": 4,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/ichijouma-mankitsugurashi-4"
+    },
+    {
+      "animeTitle": "Ichijouma Mankitsugurashi!",
+      "episode": 3,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/ichijouma-mankitsugurashi-3"
+    },
+    {
+      "animeTitle": "Ichijouma Mankitsugurashi!",
+      "episode": 2,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/ichijouma-mankitsugurashi-2"
+    },
+    {
+      "animeTitle": "Ichijouma Mankitsugurashi!",
+      "episode": 1,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/ichijouma-mankitsugurashi-1"
+    },
+    {
+      "animeTitle": "Shunkashuutou Daikousha: Haru no Mai",
+      "episode": 7,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/shunkashuutou-daikousha-haru-no-mai-7"
+    },
+    {
+      "animeTitle": "Shunkashuutou Daikousha: Haru no Mai",
+      "episode": 6,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/shunkashuutou-daikousha-haru-no-mai-6"
+    },
+    {
+      "animeTitle": "Shunkashuutou Daikousha: Haru no Mai",
+      "episode": 5,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/shunkashuutou-daikousha-haru-no-mai-5"
+    },
+    {
+      "animeTitle": "Shunkashuutou Daikousha: Haru no Mai",
+      "episode": 4,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/shunkashuutou-daikousha-haru-no-mai-4"
+    },
+    {
+      "animeTitle": "Shunkashuutou Daikousha: Haru no Mai",
+      "episode": 3,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/shunkashuutou-daikousha-haru-no-mai-3"
+    },
+    {
+      "animeTitle": "Shunkashuutou Daikousha: Haru no Mai",
+      "episode": 2,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/shunkashuutou-daikousha-haru-no-mai-2"
+    },
+    {
+      "animeTitle": "Shunkashuutou Daikousha: Haru no Mai",
+      "episode": 1,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/shunkashuutou-daikousha-haru-no-mai-1"
+    },
+    {
+      "animeTitle": "Kami no Niwatsuki Kusunoki-tei",
+      "episode": 6,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/kami-no-niwatsuki-kusunoki-tei-6"
+    },
+    {
+      "animeTitle": "Kami no Niwatsuki Kusunoki-tei",
+      "episode": 5,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/kami-no-niwatsuki-kusunoki-tei-5"
+    },
+    {
+      "animeTitle": "Kami no Niwatsuki Kusunoki-tei",
+      "episode": 4,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/kami-no-niwatsuki-kusunoki-tei-4"
+    },
+    {
+      "animeTitle": "Kami no Niwatsuki Kusunoki-tei",
+      "episode": 3,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/kami-no-niwatsuki-kusunoki-tei-3"
+    },
+    {
+      "animeTitle": "Kami no Niwatsuki Kusunoki-tei",
+      "episode": 2,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/kami-no-niwatsuki-kusunoki-tei-2"
+    },
+    {
+      "animeTitle": "Kami no Niwatsuki Kusunoki-tei",
+      "episode": 1,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/kami-no-niwatsuki-kusunoki-tei-1"
+    },
+    {
+      "animeTitle": "Mao",
+      "episode": 6,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/mao-6"
+    },
+    {
+      "animeTitle": "Mao",
+      "episode": 5,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/mao-5"
+    },
+    {
+      "animeTitle": "Mao",
+      "episode": 4,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/mao-4"
+    },
+    {
+      "animeTitle": "Mao",
+      "episode": 3,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/mao-3"
+    },
+    {
+      "animeTitle": "Mao",
+      "episode": 2,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/mao-2"
+    },
+    {
+      "animeTitle": "Mao",
+      "episode": 1,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/mao-1"
+    },
+    {
+      "animeTitle": "Akane-banashi",
+      "episode": 6,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/akane-banashi-6"
+    },
+    {
+      "animeTitle": "Akane-banashi",
+      "episode": 5,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/akane-banashi-5"
+    },
+    {
+      "animeTitle": "Akane-banashi",
+      "episode": 4,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/akane-banashi-4"
+    },
+    {
+      "animeTitle": "Akane-banashi",
+      "episode": 3,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/akane-banashi-3"
+    },
+    {
+      "animeTitle": "Akane-banashi",
+      "episode": 2,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/akane-banashi-2"
+    },
+    {
+      "animeTitle": "Akane-banashi",
+      "episode": 1,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/akane-banashi-1"
+    },
+    {
+      "animeTitle": "Yomi no Tsugai",
+      "episode": 6,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/yomi-no-tsugai-6"
+    },
+    {
+      "animeTitle": "Yomi no Tsugai",
+      "episode": 5,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/yomi-no-tsugai-5"
+    },
+    {
+      "animeTitle": "Yomi no Tsugai",
+      "episode": 4,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/yomi-no-tsugai-4"
+    },
+    {
+      "animeTitle": "Yomi no Tsugai",
+      "episode": 3,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/yomi-no-tsugai-3"
+    },
+    {
+      "animeTitle": "Yomi no Tsugai",
+      "episode": 2,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/yomi-no-tsugai-2"
+    },
+    {
+      "animeTitle": "Yomi no Tsugai",
+      "episode": 1,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/yomi-no-tsugai-1"
+    },
+    {
+      "animeTitle": "Kanan-sama wa Akumade Choroi",
+      "episode": 6,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/kanan-sama-wa-akumade-choroi-6"
+    },
+    {
+      "animeTitle": "Kanan-sama wa Akumade Choroi",
+      "episode": 5,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/kanan-sama-wa-akumade-choroi-5"
+    },
+    {
+      "animeTitle": "Kanan-sama wa Akumade Choroi",
+      "episode": 4,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/kanan-sama-wa-akumade-choroi-4"
+    },
+    {
+      "animeTitle": "Kanan-sama wa Akumade Choroi",
+      "episode": 3,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/kanan-sama-wa-akumade-choroi-3"
+    },
+    {
+      "animeTitle": "Kanan-sama wa Akumade Choroi",
+      "episode": 2,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/kanan-sama-wa-akumade-choroi-2"
+    },
+    {
+      "animeTitle": "Kanan-sama wa Akumade Choroi",
+      "episode": 1,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/kanan-sama-wa-akumade-choroi-1"
+    },
+    {
+      "animeTitle": "Onegai AiPri",
+      "episode": 5,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/onegai-aipri-5"
+    },
+    {
+      "animeTitle": "Onegai AiPri",
+      "episode": 4,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/onegai-aipri-4"
+    },
+    {
+      "animeTitle": "Onegai AiPri",
+      "episode": 3,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/onegai-aipri-3"
+    },
+    {
+      "animeTitle": "Onegai AiPri",
+      "episode": 2,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/onegai-aipri-2"
+    },
+    {
+      "animeTitle": "Onegai AiPri",
+      "episode": 1,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/onegai-aipri-1"
+    },
+    {
+      "animeTitle": "Yowayowa Sensei",
+      "episode": 5,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/yowayowa-sensei-5"
+    },
+    {
+      "animeTitle": "Yowayowa Sensei",
+      "episode": 4,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/yowayowa-sensei-4"
+    },
+    {
+      "animeTitle": "Yowayowa Sensei",
+      "episode": 3,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/yowayowa-sensei-3"
+    },
+    {
+      "animeTitle": "Yowayowa Sensei",
+      "episode": 2,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/yowayowa-sensei-2"
+    },
+    {
+      "animeTitle": "Yowayowa Sensei",
+      "episode": 1,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/yowayowa-sensei-1"
+    },
+    {
+      "animeTitle": "Daikenja Riddle no Jikan Gyakkou",
+      "episode": 6,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/daikenja-riddle-no-jikan-gyakkou-6"
+    },
+    {
+      "animeTitle": "Daikenja Riddle no Jikan Gyakkou",
+      "episode": 5,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/daikenja-riddle-no-jikan-gyakkou-5"
+    },
+    {
+      "animeTitle": "Daikenja Riddle no Jikan Gyakkou",
+      "episode": 4,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/daikenja-riddle-no-jikan-gyakkou-4"
+    },
+    {
+      "animeTitle": "Daikenja Riddle no Jikan Gyakkou",
+      "episode": 3,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/daikenja-riddle-no-jikan-gyakkou-3"
+    },
+    {
+      "animeTitle": "Daikenja Riddle no Jikan Gyakkou",
+      "episode": 2,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/daikenja-riddle-no-jikan-gyakkou-2"
+    },
+    {
+      "animeTitle": "Daikenja Riddle no Jikan Gyakkou",
+      "episode": 1,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/daikenja-riddle-no-jikan-gyakkou-1"
+    },
+    {
+      "animeTitle": "Mairimashita! Iruma-kun 4th Season",
+      "episode": 6,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/iruma-kun-s4-6"
+    },
+    {
+      "animeTitle": "Mairimashita! Iruma-kun 4th Season",
+      "episode": 5,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/iruma-kun-s4-5"
+    },
+    {
+      "animeTitle": "Mairimashita! Iruma-kun 4th Season",
+      "episode": 4,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/iruma-kun-s4-4"
+    },
+    {
+      "animeTitle": "Mairimashita! Iruma-kun 4th Season",
+      "episode": 3,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/iruma-kun-s4-3"
+    },
+    {
+      "animeTitle": "Mairimashita! Iruma-kun 4th Season",
+      "episode": 2,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/iruma-kun-s4-2"
+    },
+    {
+      "animeTitle": "Mairimashita! Iruma-kun 4th Season",
+      "episode": 1,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/iruma-kun-s4-1"
+    },
+    {
+      "animeTitle": "Saikyou no Shokugyou wa Yuusha demo Kenja demo Naku Kanteishi (Kari) Rashii desu yo?",
+      "episode": 7,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/kanteishi-7"
+    },
+    {
+      "animeTitle": "Saikyou no Shokugyou wa Yuusha demo Kenja demo Naku Kanteishi (Kari) Rashii desu yo?",
+      "episode": 6,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/kanteishi-6"
+    },
+    {
+      "animeTitle": "Saikyou no Shokugyou wa Yuusha demo Kenja demo Naku Kanteishi (Kari) Rashii desu yo?",
+      "episode": 5,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/kanteishi-5"
+    },
+    {
+      "animeTitle": "Saikyou no Shokugyou wa Yuusha demo Kenja demo Naku Kanteishi (Kari) Rashii desu yo?",
+      "episode": 4,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/kanteishi-4"
+    },
+    {
+      "animeTitle": "Saikyou no Shokugyou wa Yuusha demo Kenja demo Naku Kanteishi (Kari) Rashii desu yo?",
+      "episode": 3,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/kanteishi-3"
+    },
+    {
+      "animeTitle": "Saikyou no Shokugyou wa Yuusha demo Kenja demo Naku Kanteishi (Kari) Rashii desu yo?",
+      "episode": 2,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/kanteishi-2"
+    },
+    {
+      "animeTitle": "Saikyou no Shokugyou wa Yuusha demo Kenja demo Naku Kanteishi (Kari) Rashii desu yo?",
+      "episode": 1,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/kanteishi-1"
+    },
+    {
+      "animeTitle": "Kill Ao",
+      "episode": 5,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/kill-ao-5"
+    },
+    {
+      "animeTitle": "Kill Ao",
+      "episode": 4,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/kill-ao-4"
+    },
+    {
+      "animeTitle": "Kill Ao",
+      "episode": 3,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/kill-ao-3"
+    },
+    {
+      "animeTitle": "Kill Ao",
+      "episode": 2,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/kill-ao-2"
+    },
+    {
+      "animeTitle": "Kill Ao",
+      "episode": 1,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/kill-ao-1"
+    },
+    {
+      "animeTitle": "Mahou no Shimai Lulutto Lilly",
+      "episode": 5,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/mahou-no-shimai-lulutto-lilly-5"
+    },
+    {
+      "animeTitle": "Mahou no Shimai Lulutto Lilly",
+      "episode": 4,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/mahou-no-shimai-lulutto-lilly-4"
+    },
+    {
+      "animeTitle": "Mahou no Shimai Lulutto Lilly",
+      "episode": 3,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/mahou-no-shimai-lulutto-lilly-3"
+    },
+    {
+      "animeTitle": "Mahou no Shimai Lulutto Lilly",
+      "episode": 2,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/mahou-no-shimai-lulutto-lilly-2"
+    },
+    {
+      "animeTitle": "Mahou no Shimai Lulutto Lilly",
+      "episode": 1,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/mahou-no-shimai-lulutto-lilly-1"
+    },
+    {
+      "animeTitle": "Ganbare! Nakamura-kun!!",
+      "episode": 8,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/ganbare-nakamura-kun-8"
+    },
+    {
+      "animeTitle": "Ganbare! Nakamura-kun!!",
+      "episode": 8,
+      "page": "JKAnime",
+      "url": "https://www.jkanime.net/ganbare-nakamura-kun/8/"
+    },
+    {
+      "animeTitle": "Ganbare! Nakamura-kun!!",
+      "episode": 8,
+      "page": "AnimeAV1",
+      "url": "https://animeav1.com/media/ganbare-nakamura-kun/8"
+    },
+    {
+      "animeTitle": "Ganbare! Nakamura-kun!!",
+      "episode": 8,
+      "page": "AnimeFLV",
+      "url": "https://www3.animeflv.net/ver/ganbare-nakamurakun-8"
+    },
+    {
+      "animeTitle": "Ganbare! Nakamura-kun!!",
       "episode": 7,
       "page": "AnimeAV1",
-      "url": "https://animeav1.com/media/yami-shibai-15/7"
+      "url": "https://animeav1.com/media/ganbare-nakamura-kun/7"
+    },
+    {
+      "animeTitle": "Ganbare! Nakamura-kun!!",
+      "episode": 6,
+      "page": "AnimeAV1",
+      "url": "https://animeav1.com/media/ganbare-nakamura-kun/6"
+    },
+    {
+      "animeTitle": "Ganbare! Nakamura-kun!!",
+      "episode": 5,
+      "page": "AnimeAV1",
+      "url": "https://animeav1.com/media/ganbare-nakamura-kun/5"
+    },
+    {
+      "animeTitle": "Ganbare! Nakamura-kun!!",
+      "episode": 4,
+      "page": "AnimeAV1",
+      "url": "https://animeav1.com/media/ganbare-nakamura-kun/4"
+    },
+    {
+      "animeTitle": "Ganbare! Nakamura-kun!!",
+      "episode": 3,
+      "page": "AnimeAV1",
+      "url": "https://animeav1.com/media/ganbare-nakamura-kun/3"
+    },
+    {
+      "animeTitle": "Ganbare! Nakamura-kun!!",
+      "episode": 2,
+      "page": "AnimeAV1",
+      "url": "https://animeav1.com/media/ganbare-nakamura-kun/2"
+    },
+    {
+      "animeTitle": "Ganbare! Nakamura-kun!!",
+      "episode": 1,
+      "page": "AnimeAV1",
+      "url": "https://animeav1.com/media/ganbare-nakamura-kun/1"
+    },
+    {
+      "animeTitle": "Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru? Season 2",
+      "episode": 7,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/saikyou-ousama-s2-7"
+    },
+    {
+      "animeTitle": "Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru? Season 2",
+      "episode": 7,
+      "page": "JKAnime",
+      "url": "https://www.jkanime.net/saikyou-no-ousama-nidome-no-jinsei-wa-nani-wo-suru-season-2/7/"
+    },
+    {
+      "animeTitle": "Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru? Season 2",
+      "episode": 7,
+      "page": "AnimeAV1",
+      "url": "https://animeav1.com/media/saikyou-no-ousama-nidome-no-jinsei-wa-nani-wo-suru-season-2/7"
+    },
+    {
+      "animeTitle": "Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru? Season 2",
+      "episode": 7,
+      "page": "AnimeFLV",
+      "url": "https://www3.animeflv.net/ver/saikyou-no-ousama-nidome-no-jinsei-wa-nani-wo-suru-season-2-7"
+    },
+    {
+      "animeTitle": "Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru? Season 2",
+      "episode": 6,
+      "page": "AnimeAV1",
+      "url": "https://animeav1.com/media/saikyou-no-ousama-nidome-no-jinsei-wa-nani-wo-suru-season-2/6"
+    },
+    {
+      "animeTitle": "Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru? Season 2",
+      "episode": 5,
+      "page": "AnimeAV1",
+      "url": "https://animeav1.com/media/saikyou-no-ousama-nidome-no-jinsei-wa-nani-wo-suru-season-2/5"
+    },
+    {
+      "animeTitle": "Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru? Season 2",
+      "episode": 4,
+      "page": "AnimeAV1",
+      "url": "https://animeav1.com/media/saikyou-no-ousama-nidome-no-jinsei-wa-nani-wo-suru-season-2/4"
+    },
+    {
+      "animeTitle": "Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru? Season 2",
+      "episode": 3,
+      "page": "AnimeAV1",
+      "url": "https://animeav1.com/media/saikyou-no-ousama-nidome-no-jinsei-wa-nani-wo-suru-season-2/3"
+    },
+    {
+      "animeTitle": "Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru? Season 2",
+      "episode": 2,
+      "page": "AnimeAV1",
+      "url": "https://animeav1.com/media/saikyou-no-ousama-nidome-no-jinsei-wa-nani-wo-suru-season-2/2"
+    },
+    {
+      "animeTitle": "Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru? Season 2",
+      "episode": 1,
+      "page": "AnimeAV1",
+      "url": "https://animeav1.com/media/saikyou-no-ousama-nidome-no-jinsei-wa-nani-wo-suru-season-2/1"
+    },
+    {
+      "animeTitle": "Nigashita Sakana wa Ookikatta ga Tsuriageta Sakana ga Ookisugita Ken",
+      "episode": 7,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/ookisugita-sakana-7"
+    },
+    {
+      "animeTitle": "Nigashita Sakana wa Ookikatta ga Tsuriageta Sakana ga Ookisugita Ken",
+      "episode": 7,
+      "page": "JKAnime",
+      "url": "https://www.jkanime.net/nigashita-sakana-wa-ookikatta-ga-tsuriageta-sakana-ga-ookisugita-ken/7/"
+    },
+    {
+      "animeTitle": "Nigashita Sakana wa Ookikatta ga Tsuriageta Sakana ga Ookisugita Ken",
+      "episode": 7,
+      "page": "AnimeAV1",
+      "url": "https://animeav1.com/media/nigashita-sakana-wa-ookikatta-ga-tsuriageta-sakana-ga-ookisugita-ken/7"
+    },
+    {
+      "animeTitle": "Nigashita Sakana wa Ookikatta ga Tsuriageta Sakana ga Ookisugita Ken",
+      "episode": 7,
+      "page": "AnimeFLV",
+      "url": "https://www3.animeflv.net/ver/nigashita-sakana-wa-ookikatta-ga-tsuriageta-sakana-ga-ookisugita-ken-7"
+    },
+    {
+      "animeTitle": "Nigashita Sakana wa Ookikatta ga Tsuriageta Sakana ga Ookisugita Ken",
+      "episode": 6,
+      "page": "AnimeAV1",
+      "url": "https://animeav1.com/media/nigashita-sakana-wa-ookikatta-ga-tsuriageta-sakana-ga-ookisugita-ken/6"
+    },
+    {
+      "animeTitle": "Nigashita Sakana wa Ookikatta ga Tsuriageta Sakana ga Ookisugita Ken",
+      "episode": 5,
+      "page": "AnimeAV1",
+      "url": "https://animeav1.com/media/nigashita-sakana-wa-ookikatta-ga-tsuriageta-sakana-ga-ookisugita-ken/5"
+    },
+    {
+      "animeTitle": "Nigashita Sakana wa Ookikatta ga Tsuriageta Sakana ga Ookisugita Ken",
+      "episode": 4,
+      "page": "AnimeAV1",
+      "url": "https://animeav1.com/media/nigashita-sakana-wa-ookikatta-ga-tsuriageta-sakana-ga-ookisugita-ken/4"
+    },
+    {
+      "animeTitle": "Nigashita Sakana wa Ookikatta ga Tsuriageta Sakana ga Ookisugita Ken",
+      "episode": 3,
+      "page": "AnimeAV1",
+      "url": "https://animeav1.com/media/nigashita-sakana-wa-ookikatta-ga-tsuriageta-sakana-ga-ookisugita-ken/3"
+    },
+    {
+      "animeTitle": "Nigashita Sakana wa Ookikatta ga Tsuriageta Sakana ga Ookisugita Ken",
+      "episode": 2,
+      "page": "AnimeAV1",
+      "url": "https://animeav1.com/media/nigashita-sakana-wa-ookikatta-ga-tsuriageta-sakana-ga-ookisugita-ken/2"
+    },
+    {
+      "animeTitle": "Nigashita Sakana wa Ookikatta ga Tsuriageta Sakana ga Ookisugita Ken",
+      "episode": 1,
+      "page": "AnimeAV1",
+      "url": "https://animeav1.com/media/nigashita-sakana-wa-ookikatta-ga-tsuriageta-sakana-ga-ookisugita-ken/1"
+    },
+    {
+      "animeTitle": "Otaku ni Yasashii Gal wa Inai!?",
+      "episode": 6,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/otaku-ni-yasashii-gal-wa-inai-6"
+    },
+    {
+      "animeTitle": "Otaku ni Yasashii Gal wa Inai!?",
+      "episode": 6,
+      "page": "JKAnime",
+      "url": "https://www.jkanime.net/otaku-ni-yasashii-gal-wa-inai/6/"
+    },
+    {
+      "animeTitle": "Otaku ni Yasashii Gal wa Inai!?",
+      "episode": 6,
+      "page": "AnimeAV1",
+      "url": "https://animeav1.com/media/otaku-ni-yasashii-gal-wa-inai/6"
+    },
+    {
+      "animeTitle": "Otaku ni Yasashii Gal wa Inai!?",
+      "episode": 6,
+      "page": "AnimeFLV",
+      "url": "https://www3.animeflv.net/ver/otaku-ni-yasashii-gal-wa-inai-6"
+    },
+    {
+      "animeTitle": "Otaku ni Yasashii Gal wa Inai!?",
+      "episode": 5,
+      "page": "AnimeAV1",
+      "url": "https://animeav1.com/media/otaku-ni-yasashii-gal-wa-inai/5"
+    },
+    {
+      "animeTitle": "Otaku ni Yasashii Gal wa Inai!?",
+      "episode": 4,
+      "page": "AnimeAV1",
+      "url": "https://animeav1.com/media/otaku-ni-yasashii-gal-wa-inai/4"
+    },
+    {
+      "animeTitle": "Otaku ni Yasashii Gal wa Inai!?",
+      "episode": 3,
+      "page": "AnimeAV1",
+      "url": "https://animeav1.com/media/otaku-ni-yasashii-gal-wa-inai/3"
+    },
+    {
+      "animeTitle": "Otaku ni Yasashii Gal wa Inai!?",
+      "episode": 2,
+      "page": "AnimeAV1",
+      "url": "https://animeav1.com/media/otaku-ni-yasashii-gal-wa-inai/2"
+    },
+    {
+      "animeTitle": "Otaku ni Yasashii Gal wa Inai!?",
+      "episode": 1,
+      "page": "AnimeAV1",
+      "url": "https://animeav1.com/media/otaku-ni-yasashii-gal-wa-inai/1"
+    },
+    {
+      "animeTitle": "Re:Zero kara Hajimeru Isekai Seikatsu 4th Season",
+      "episode": 6,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/rezero-kara-hajimeru-isekai-seikatsu-4th-season-6"
+    },
+    {
+      "animeTitle": "Re:Zero kara Hajimeru Isekai Seikatsu 4th Season",
+      "episode": 6,
+      "page": "JKAnime",
+      "url": "https://www.jkanime.net/rezero-kara-hajimeru-isekai-seikatsu-4th-season/6/"
+    },
+    {
+      "animeTitle": "Re:Zero kara Hajimeru Isekai Seikatsu 4th Season",
+      "episode": 6,
+      "page": "AnimeAV1",
+      "url": "https://animeav1.com/media/rezero-kara-hajimeru-isekai-seikatsu-4th-season/6"
+    },
+    {
+      "animeTitle": "Re:Zero kara Hajimeru Isekai Seikatsu 4th Season",
+      "episode": 6,
+      "page": "AnimeFLV",
+      "url": "https://www3.animeflv.net/ver/rezero-kara-hajimeru-isekai-seikatsu-4th-season-6"
+    },
+    {
+      "animeTitle": "Re:Zero kara Hajimeru Isekai Seikatsu 4th Season",
+      "episode": 5,
+      "page": "AnimeAV1",
+      "url": "https://animeav1.com/media/rezero-kara-hajimeru-isekai-seikatsu-4th-season/5"
+    },
+    {
+      "animeTitle": "Re:Zero kara Hajimeru Isekai Seikatsu 4th Season",
+      "episode": 4,
+      "page": "AnimeAV1",
+      "url": "https://animeav1.com/media/rezero-kara-hajimeru-isekai-seikatsu-4th-season/4"
+    },
+    {
+      "animeTitle": "Re:Zero kara Hajimeru Isekai Seikatsu 4th Season",
+      "episode": 3,
+      "page": "AnimeAV1",
+      "url": "https://animeav1.com/media/rezero-kara-hajimeru-isekai-seikatsu-4th-season/3"
+    },
+    {
+      "animeTitle": "Re:Zero kara Hajimeru Isekai Seikatsu 4th Season",
+      "episode": 2,
+      "page": "AnimeAV1",
+      "url": "https://animeav1.com/media/rezero-kara-hajimeru-isekai-seikatsu-4th-season/2"
+    },
+    {
+      "animeTitle": "Re:Zero kara Hajimeru Isekai Seikatsu 4th Season",
+      "episode": 1,
+      "page": "AnimeAV1",
+      "url": "https://animeav1.com/media/rezero-kara-hajimeru-isekai-seikatsu-4th-season/1"
+    },
+    {
+      "animeTitle": "Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 3rd Season",
+      "episode": 7,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/hanbaiki-s3-7"
+    },
+    {
+      "animeTitle": "Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 3rd Season",
+      "episode": 7,
+      "page": "JKAnime",
+      "url": "https://www.jkanime.net/jidou-hanbaiki-ni-umarekawatta-ore-wa-meikyuu-wo-samayou-3rd-season/7/"
+    },
+    {
+      "animeTitle": "Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 3rd Season",
+      "episode": 7,
+      "page": "AnimeAV1",
+      "url": "https://animeav1.com/media/jidou-hanbaiki-ni-umarekawatta-ore-wa-meikyuu-wo-samayou-3rd-season/7"
+    },
+    {
+      "animeTitle": "Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 3rd Season",
+      "episode": 7,
+      "page": "AnimeFLV",
+      "url": "https://www3.animeflv.net/ver/jidou-hanbaiki-ni-umarekawatta-ore-wa-meikyuu-wo-samayou-3rd-season-7"
+    },
+    {
+      "animeTitle": "Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 3rd Season",
+      "episode": 6,
+      "page": "AnimeAV1",
+      "url": "https://animeav1.com/media/jidou-hanbaiki-ni-umarekawatta-ore-wa-meikyuu-wo-samayou-3rd-season/6"
+    },
+    {
+      "animeTitle": "Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 3rd Season",
+      "episode": 5,
+      "page": "AnimeAV1",
+      "url": "https://animeav1.com/media/jidou-hanbaiki-ni-umarekawatta-ore-wa-meikyuu-wo-samayou-3rd-season/5"
+    },
+    {
+      "animeTitle": "Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 3rd Season",
+      "episode": 4,
+      "page": "AnimeAV1",
+      "url": "https://animeav1.com/media/jidou-hanbaiki-ni-umarekawatta-ore-wa-meikyuu-wo-samayou-3rd-season/4"
+    },
+    {
+      "animeTitle": "Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 3rd Season",
+      "episode": 3,
+      "page": "AnimeAV1",
+      "url": "https://animeav1.com/media/jidou-hanbaiki-ni-umarekawatta-ore-wa-meikyuu-wo-samayou-3rd-season/3"
+    },
+    {
+      "animeTitle": "Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 3rd Season",
+      "episode": 2,
+      "page": "AnimeAV1",
+      "url": "https://animeav1.com/media/jidou-hanbaiki-ni-umarekawatta-ore-wa-meikyuu-wo-samayou-3rd-season/2"
+    },
+    {
+      "animeTitle": "Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 3rd Season",
+      "episode": 1,
+      "page": "AnimeAV1",
+      "url": "https://animeav1.com/media/jidou-hanbaiki-ni-umarekawatta-ore-wa-meikyuu-wo-samayou-3rd-season/1"
+    },
+    {
+      "animeTitle": "Dorohedoro Season 2",
+      "episode": 9,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/dorohedoro-season-2-9"
+    },
+    {
+      "animeTitle": "Dorohedoro Season 2",
+      "episode": 9,
+      "page": "JKAnime",
+      "url": "https://www.jkanime.net/dorohedoro-season-2/9/"
+    },
+    {
+      "animeTitle": "Dorohedoro Season 2",
+      "episode": 9,
+      "page": "AnimeFLV",
+      "url": "https://www3.animeflv.net/ver/dorohedoro-season-2-9"
+    },
+    {
+      "animeTitle": "Dorohedoro Season 2",
+      "episode": 9,
+      "page": "AnimeAV1",
+      "url": "https://animeav1.com/media/dorohedoro-season-2/9"
+    },
+    {
+      "animeTitle": "Dorohedoro Season 2",
+      "episode": 8,
+      "page": "AnimeAV1",
+      "url": "https://animeav1.com/media/dorohedoro-season-2/8"
+    },
+    {
+      "animeTitle": "Dorohedoro Season 2",
+      "episode": 7,
+      "page": "AnimeAV1",
+      "url": "https://animeav1.com/media/dorohedoro-season-2/7"
+    },
+    {
+      "animeTitle": "Dorohedoro Season 2",
+      "episode": 6,
+      "page": "AnimeAV1",
+      "url": "https://animeav1.com/media/dorohedoro-season-2/6"
+    },
+    {
+      "animeTitle": "Dorohedoro Season 2",
+      "episode": 5,
+      "page": "AnimeAV1",
+      "url": "https://animeav1.com/media/dorohedoro-season-2/5"
+    },
+    {
+      "animeTitle": "Dorohedoro Season 2",
+      "episode": 4,
+      "page": "AnimeAV1",
+      "url": "https://animeav1.com/media/dorohedoro-season-2/4"
+    },
+    {
+      "animeTitle": "Dorohedoro Season 2",
+      "episode": 3,
+      "page": "AnimeAV1",
+      "url": "https://animeav1.com/media/dorohedoro-season-2/3"
+    },
+    {
+      "animeTitle": "Dorohedoro Season 2",
+      "episode": 2,
+      "page": "AnimeAV1",
+      "url": "https://animeav1.com/media/dorohedoro-season-2/2"
+    },
+    {
+      "animeTitle": "Dorohedoro Season 2",
+      "episode": 1,
+      "page": "AnimeAV1",
+      "url": "https://animeav1.com/media/dorohedoro-season-2/1"
+    },
+    {
+      "animeTitle": "Kanojo, Okarishimasu 5th Season",
+      "episode": 6,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/kanojo-okarishimasu-5th-season-6"
+    },
+    {
+      "animeTitle": "Kanojo, Okarishimasu 5th Season",
+      "episode": 6,
+      "page": "JKAnime",
+      "url": "https://www.jkanime.net/kanojo-okarishimasu-5th-season/6/"
+    },
+    {
+      "animeTitle": "Kanojo, Okarishimasu 5th Season",
+      "episode": 6,
+      "page": "AnimeAV1",
+      "url": "https://animeav1.com/media/kanojo-okarishimasu-5th-season/6"
+    },
+    {
+      "animeTitle": "Kanojo, Okarishimasu 5th Season",
+      "episode": 6,
+      "page": "AnimeFLV",
+      "url": "https://www3.animeflv.net/ver/kanojo-okarishimasu-5th-season-6"
+    },
+    {
+      "animeTitle": "Kanojo, Okarishimasu 5th Season",
+      "episode": 5,
+      "page": "AnimeAV1",
+      "url": "https://animeav1.com/media/kanojo-okarishimasu-5th-season/5"
+    },
+    {
+      "animeTitle": "Kanojo, Okarishimasu 5th Season",
+      "episode": 4,
+      "page": "AnimeAV1",
+      "url": "https://animeav1.com/media/kanojo-okarishimasu-5th-season/4"
+    },
+    {
+      "animeTitle": "Kanojo, Okarishimasu 5th Season",
+      "episode": 3,
+      "page": "AnimeAV1",
+      "url": "https://animeav1.com/media/kanojo-okarishimasu-5th-season/3"
+    },
+    {
+      "animeTitle": "Kanojo, Okarishimasu 5th Season",
+      "episode": 2,
+      "page": "AnimeAV1",
+      "url": "https://animeav1.com/media/kanojo-okarishimasu-5th-season/2"
+    },
+    {
+      "animeTitle": "Kanojo, Okarishimasu 5th Season",
+      "episode": 1,
+      "page": "AnimeAV1",
+      "url": "https://animeav1.com/media/kanojo-okarishimasu-5th-season/1"
+    },
+    {
+      "animeTitle": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 4th Season: 2-nensei-hen 1 Gakki",
+      "episode": 10,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/youkoso-s4-10"
+    },
+    {
+      "animeTitle": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 4th Season: 2-nensei-hen 1 Gakki",
+      "episode": 10,
+      "page": "JKAnime",
+      "url": "https://www.jkanime.net/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-4th-season-2-nensei-hen-1-gakki/10/"
+    },
+    {
+      "animeTitle": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 4th Season: 2-nensei-hen 1 Gakki",
+      "episode": 10,
+      "page": "AnimeAV1",
+      "url": "https://animeav1.com/media/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-4th-season-2-nensei-hen-1-gakki/10"
+    },
+    {
+      "animeTitle": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 4th Season: 2-nensei-hen 1 Gakki",
+      "episode": 9,
+      "page": "AnimeAV1",
+      "url": "https://animeav1.com/media/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-4th-season-2-nensei-hen-1-gakki/9"
+    },
+    {
+      "animeTitle": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 4th Season: 2-nensei-hen 1 Gakki",
+      "episode": 8,
+      "page": "AnimeAV1",
+      "url": "https://animeav1.com/media/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-4th-season-2-nensei-hen-1-gakki/8"
+    },
+    {
+      "animeTitle": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 4th Season: 2-nensei-hen 1 Gakki",
+      "episode": 7,
+      "page": "AnimeAV1",
+      "url": "https://animeav1.com/media/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-4th-season-2-nensei-hen-1-gakki/7"
+    },
+    {
+      "animeTitle": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 4th Season: 2-nensei-hen 1 Gakki",
+      "episode": 6,
+      "page": "AnimeAV1",
+      "url": "https://animeav1.com/media/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-4th-season-2-nensei-hen-1-gakki/6"
+    },
+    {
+      "animeTitle": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 4th Season: 2-nensei-hen 1 Gakki",
+      "episode": 5,
+      "page": "AnimeAV1",
+      "url": "https://animeav1.com/media/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-4th-season-2-nensei-hen-1-gakki/5"
+    },
+    {
+      "animeTitle": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 4th Season: 2-nensei-hen 1 Gakki",
+      "episode": 4,
+      "page": "AnimeAV1",
+      "url": "https://animeav1.com/media/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-4th-season-2-nensei-hen-1-gakki/4"
+    },
+    {
+      "animeTitle": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 4th Season: 2-nensei-hen 1 Gakki",
+      "episode": 3,
+      "page": "AnimeAV1",
+      "url": "https://animeav1.com/media/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-4th-season-2-nensei-hen-1-gakki/3"
+    },
+    {
+      "animeTitle": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 4th Season: 2-nensei-hen 1 Gakki",
+      "episode": 2,
+      "page": "AnimeAV1",
+      "url": "https://animeav1.com/media/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-4th-season-2-nensei-hen-1-gakki/2"
+    },
+    {
+      "animeTitle": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 4th Season: 2-nensei-hen 1 Gakki",
+      "episode": 1,
+      "page": "AnimeAV1",
+      "url": "https://animeav1.com/media/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-4th-season-2-nensei-hen-1-gakki/1"
+    },
+    {
+      "animeTitle": "Megami \"Isekai Tensei Nani ni Naritai desu ka\" Ore \"Yuusha no Rokkotsu de\"",
+      "episode": 6,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/isekai-yuusha-6"
+    },
+    {
+      "animeTitle": "Megami \"Isekai Tensei Nani ni Naritai desu ka\" Ore \"Yuusha no Rokkotsu de\"",
+      "episode": 6,
+      "page": "JKAnime",
+      "url": "https://www.jkanime.net/megami-isekai-tensei-nani-ni-naritai-desu-ka-ore-yuusha-no-rokkotsu-de/6/"
+    },
+    {
+      "animeTitle": "Megami \"Isekai Tensei Nani ni Naritai desu ka\" Ore \"Yuusha no Rokkotsu de\"",
+      "episode": 6,
+      "page": "AnimeAV1",
+      "url": "https://animeav1.com/media/megami-isekai-tensei-nani-ni-naritai-desu-ka-ore-yuusha-no-rokkotsu-de/6"
+    },
+    {
+      "animeTitle": "Megami \"Isekai Tensei Nani ni Naritai desu ka\" Ore \"Yuusha no Rokkotsu de\"",
+      "episode": 6,
+      "page": "AnimeFLV",
+      "url": "https://www3.animeflv.net/ver/megami-isekai-tensei-nani-ni-naritai-desu-ka-ore-yuusha-no-rokkotsu-de-6"
+    },
+    {
+      "animeTitle": "Megami \"Isekai Tensei Nani ni Naritai desu ka\" Ore \"Yuusha no Rokkotsu de\"",
+      "episode": 5,
+      "page": "AnimeAV1",
+      "url": "https://animeav1.com/media/megami-isekai-tensei-nani-ni-naritai-desu-ka-ore-yuusha-no-rokkotsu-de/5"
+    },
+    {
+      "animeTitle": "Megami \"Isekai Tensei Nani ni Naritai desu ka\" Ore \"Yuusha no Rokkotsu de\"",
+      "episode": 4,
+      "page": "AnimeAV1",
+      "url": "https://animeav1.com/media/megami-isekai-tensei-nani-ni-naritai-desu-ka-ore-yuusha-no-rokkotsu-de/4"
+    },
+    {
+      "animeTitle": "Megami \"Isekai Tensei Nani ni Naritai desu ka\" Ore \"Yuusha no Rokkotsu de\"",
+      "episode": 3,
+      "page": "AnimeAV1",
+      "url": "https://animeav1.com/media/megami-isekai-tensei-nani-ni-naritai-desu-ka-ore-yuusha-no-rokkotsu-de/3"
+    },
+    {
+      "animeTitle": "Megami \"Isekai Tensei Nani ni Naritai desu ka\" Ore \"Yuusha no Rokkotsu de\"",
+      "episode": 2,
+      "page": "AnimeAV1",
+      "url": "https://animeav1.com/media/megami-isekai-tensei-nani-ni-naritai-desu-ka-ore-yuusha-no-rokkotsu-de/2"
+    },
+    {
+      "animeTitle": "Megami \"Isekai Tensei Nani ni Naritai desu ka\" Ore \"Yuusha no Rokkotsu de\"",
+      "episode": 1,
+      "page": "AnimeAV1",
+      "url": "https://animeav1.com/media/megami-isekai-tensei-nani-ni-naritai-desu-ka-ore-yuusha-no-rokkotsu-de/1"
+    },
+    {
+      "animeTitle": "Tadaima, Ojamasaremasu!",
+      "episode": 6,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/tadaima-ojamasaremasu-6"
+    },
+    {
+      "animeTitle": "Tadaima, Ojamasaremasu!",
+      "episode": 6,
+      "page": "JKAnime",
+      "url": "https://www.jkanime.net/tadaima-ojamasaremasu/6/"
+    },
+    {
+      "animeTitle": "Tadaima, Ojamasaremasu!",
+      "episode": 6,
+      "page": "AnimeAV1",
+      "url": "https://animeav1.com/media/tadaima-ojamasaremasu/6"
+    },
+    {
+      "animeTitle": "Tadaima, Ojamasaremasu!",
+      "episode": 6,
+      "page": "AnimeFLV",
+      "url": "https://www3.animeflv.net/ver/tadaima-ojamasaremasu-6"
+    },
+    {
+      "animeTitle": "Tadaima, Ojamasaremasu!",
+      "episode": 5,
+      "page": "AnimeAV1",
+      "url": "https://animeav1.com/media/tadaima-ojamasaremasu/5"
+    },
+    {
+      "animeTitle": "Tadaima, Ojamasaremasu!",
+      "episode": 4,
+      "page": "AnimeAV1",
+      "url": "https://animeav1.com/media/tadaima-ojamasaremasu/4"
+    },
+    {
+      "animeTitle": "Tadaima, Ojamasaremasu!",
+      "episode": 3,
+      "page": "AnimeAV1",
+      "url": "https://animeav1.com/media/tadaima-ojamasaremasu/3"
+    },
+    {
+      "animeTitle": "Tadaima, Ojamasaremasu!",
+      "episode": 2,
+      "page": "AnimeAV1",
+      "url": "https://animeav1.com/media/tadaima-ojamasaremasu/2"
+    },
+    {
+      "animeTitle": "Tadaima, Ojamasaremasu!",
+      "episode": 1,
+      "page": "AnimeAV1",
+      "url": "https://animeav1.com/media/tadaima-ojamasaremasu/1"
+    },
+    {
+      "animeTitle": "Hidarikiki no Eren",
+      "episode": 6,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/hidarikiki-no-eren-6"
+    },
+    {
+      "animeTitle": "Hidarikiki no Eren",
+      "episode": 6,
+      "page": "JKAnime",
+      "url": "https://www.jkanime.net/hidarikiki-no-eren/6/"
+    },
+    {
+      "animeTitle": "Hidarikiki no Eren",
+      "episode": 6,
+      "page": "AnimeAV1",
+      "url": "https://animeav1.com/media/hidarikiki-no-eren/6"
+    },
+    {
+      "animeTitle": "Hidarikiki no Eren",
+      "episode": 6,
+      "page": "AnimeFLV",
+      "url": "https://www3.animeflv.net/ver/hidarikiki-no-eren-6"
+    },
+    {
+      "animeTitle": "Hidarikiki no Eren",
+      "episode": 5,
+      "page": "AnimeAV1",
+      "url": "https://animeav1.com/media/hidarikiki-no-eren/5"
+    },
+    {
+      "animeTitle": "Hidarikiki no Eren",
+      "episode": 4,
+      "page": "AnimeAV1",
+      "url": "https://animeav1.com/media/hidarikiki-no-eren/4"
+    },
+    {
+      "animeTitle": "Hidarikiki no Eren",
+      "episode": 3,
+      "page": "AnimeAV1",
+      "url": "https://animeav1.com/media/hidarikiki-no-eren/3"
+    },
+    {
+      "animeTitle": "Hidarikiki no Eren",
+      "episode": 2,
+      "page": "AnimeAV1",
+      "url": "https://animeav1.com/media/hidarikiki-no-eren/2"
+    },
+    {
+      "animeTitle": "Hidarikiki no Eren",
+      "episode": 1,
+      "page": "AnimeAV1",
+      "url": "https://animeav1.com/media/hidarikiki-no-eren/1"
+    },
+    {
+      "animeTitle": "Class de 2-banme ni Kawaii Onnanoko to Tomodachi ni Natta",
+      "episode": 6,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/kawaii-onnanoko-6"
+    },
+    {
+      "animeTitle": "Class de 2-banme ni Kawaii Onnanoko to Tomodachi ni Natta",
+      "episode": 6,
+      "page": "JKAnime",
+      "url": "https://www.jkanime.net/class-de-2-banme-ni-kawaii-onnanoko-to-tomodachi-ni-natta/6/"
+    },
+    {
+      "animeTitle": "Class de 2-banme ni Kawaii Onnanoko to Tomodachi ni Natta",
+      "episode": 6,
+      "page": "AnimeAV1",
+      "url": "https://animeav1.com/media/class-de-2-banme-ni-kawaii-onnanoko-to-tomodachi-ni-natta/6"
+    },
+    {
+      "animeTitle": "Class de 2-banme ni Kawaii Onnanoko to Tomodachi ni Natta",
+      "episode": 6,
+      "page": "AnimeFLV",
+      "url": "https://www3.animeflv.net/ver/class-de-2banme-ni-kawaii-onnanoko-to-tomodachi-ni-natta-6"
+    },
+    {
+      "animeTitle": "Class de 2-banme ni Kawaii Onnanoko to Tomodachi ni Natta",
+      "episode": 5,
+      "page": "AnimeAV1",
+      "url": "https://animeav1.com/media/class-de-2-banme-ni-kawaii-onnanoko-to-tomodachi-ni-natta/5"
+    },
+    {
+      "animeTitle": "Class de 2-banme ni Kawaii Onnanoko to Tomodachi ni Natta",
+      "episode": 4,
+      "page": "AnimeAV1",
+      "url": "https://animeav1.com/media/class-de-2-banme-ni-kawaii-onnanoko-to-tomodachi-ni-natta/4"
+    },
+    {
+      "animeTitle": "Class de 2-banme ni Kawaii Onnanoko to Tomodachi ni Natta",
+      "episode": 3,
+      "page": "AnimeAV1",
+      "url": "https://animeav1.com/media/class-de-2-banme-ni-kawaii-onnanoko-to-tomodachi-ni-natta/3"
+    },
+    {
+      "animeTitle": "Class de 2-banme ni Kawaii Onnanoko to Tomodachi ni Natta",
+      "episode": 2,
+      "page": "AnimeAV1",
+      "url": "https://animeav1.com/media/class-de-2-banme-ni-kawaii-onnanoko-to-tomodachi-ni-natta/2"
+    },
+    {
+      "animeTitle": "Class de 2-banme ni Kawaii Onnanoko to Tomodachi ni Natta",
+      "episode": 1,
+      "page": "AnimeAV1",
+      "url": "https://animeav1.com/media/class-de-2-banme-ni-kawaii-onnanoko-to-tomodachi-ni-natta/1"
+    },
+    {
+      "animeTitle": "Replica datte, Koi wo Suru.",
+      "episode": 6,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/replica-datte-koi-wo-suru-6"
+    },
+    {
+      "animeTitle": "Replica datte, Koi wo Suru.",
+      "episode": 6,
+      "page": "JKAnime",
+      "url": "https://www.jkanime.net/replica-datte-koi-wo-suru/6/"
+    },
+    {
+      "animeTitle": "Replica datte, Koi wo Suru.",
+      "episode": 6,
+      "page": "AnimeAV1",
+      "url": "https://animeav1.com/media/replica-datte-koi-wo-suru/6"
+    },
+    {
+      "animeTitle": "Replica datte, Koi wo Suru.",
+      "episode": 6,
+      "page": "AnimeFLV",
+      "url": "https://www3.animeflv.net/ver/replica-datte-koi-wo-suru-6"
+    },
+    {
+      "animeTitle": "Replica datte, Koi wo Suru.",
+      "episode": 5,
+      "page": "AnimeAV1",
+      "url": "https://animeav1.com/media/replica-datte-koi-wo-suru/5"
+    },
+    {
+      "animeTitle": "Replica datte, Koi wo Suru.",
+      "episode": 4,
+      "page": "AnimeAV1",
+      "url": "https://animeav1.com/media/replica-datte-koi-wo-suru/4"
+    },
+    {
+      "animeTitle": "Replica datte, Koi wo Suru.",
+      "episode": 3,
+      "page": "AnimeAV1",
+      "url": "https://animeav1.com/media/replica-datte-koi-wo-suru/3"
+    },
+    {
+      "animeTitle": "Replica datte, Koi wo Suru.",
+      "episode": 2,
+      "page": "AnimeAV1",
+      "url": "https://animeav1.com/media/replica-datte-koi-wo-suru/2"
+    },
+    {
+      "animeTitle": "Replica datte, Koi wo Suru.",
+      "episode": 1,
+      "page": "AnimeAV1",
+      "url": "https://animeav1.com/media/replica-datte-koi-wo-suru/1"
+    },
+    {
+      "animeTitle": "Aishiteru Game wo Owarasetai",
+      "episode": 5,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/aishiteru-game-wo-owarasetai-5"
+    },
+    {
+      "animeTitle": "Aishiteru Game wo Owarasetai",
+      "episode": 5,
+      "page": "JKAnime",
+      "url": "https://www.jkanime.net/aishiteru-game-wo-owarasetai/5/"
+    },
+    {
+      "animeTitle": "Aishiteru Game wo Owarasetai",
+      "episode": 5,
+      "page": "AnimeAV1",
+      "url": "https://animeav1.com/media/aishiteru-game-wo-owarasetai/5"
+    },
+    {
+      "animeTitle": "Aishiteru Game wo Owarasetai",
+      "episode": 5,
+      "page": "AnimeFLV",
+      "url": "https://www3.animeflv.net/ver/aishiteru-game-wo-owarasetai-5"
+    },
+    {
+      "animeTitle": "Aishiteru Game wo Owarasetai",
+      "episode": 4,
+      "page": "AnimeAV1",
+      "url": "https://animeav1.com/media/aishiteru-game-wo-owarasetai/4"
+    },
+    {
+      "animeTitle": "Aishiteru Game wo Owarasetai",
+      "episode": 3,
+      "page": "AnimeAV1",
+      "url": "https://animeav1.com/media/aishiteru-game-wo-owarasetai/3"
+    },
+    {
+      "animeTitle": "Aishiteru Game wo Owarasetai",
+      "episode": 2,
+      "page": "AnimeAV1",
+      "url": "https://animeav1.com/media/aishiteru-game-wo-owarasetai/2"
+    },
+    {
+      "animeTitle": "Aishiteru Game wo Owarasetai",
+      "episode": 1,
+      "page": "AnimeAV1",
+      "url": "https://animeav1.com/media/aishiteru-game-wo-owarasetai/1"
+    },
+    {
+      "animeTitle": "Marriagetoxin",
+      "episode": 6,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/marriagetoxin-6"
+    },
+    {
+      "animeTitle": "Marriagetoxin",
+      "episode": 6,
+      "page": "JKAnime",
+      "url": "https://www.jkanime.net/marriagetoxin/6/"
+    },
+    {
+      "animeTitle": "Marriagetoxin",
+      "episode": 6,
+      "page": "AnimeAV1",
+      "url": "https://animeav1.com/media/marriagetoxin/6"
+    },
+    {
+      "animeTitle": "Marriagetoxin",
+      "episode": 6,
+      "page": "AnimeFLV",
+      "url": "https://www3.animeflv.net/ver/marriagetoxin-6"
+    },
+    {
+      "animeTitle": "Marriagetoxin",
+      "episode": 5,
+      "page": "AnimeAV1",
+      "url": "https://animeav1.com/media/marriagetoxin/5"
+    },
+    {
+      "animeTitle": "Marriagetoxin",
+      "episode": 4,
+      "page": "AnimeAV1",
+      "url": "https://animeav1.com/media/marriagetoxin/4"
+    },
+    {
+      "animeTitle": "Marriagetoxin",
+      "episode": 3,
+      "page": "AnimeAV1",
+      "url": "https://animeav1.com/media/marriagetoxin/3"
+    },
+    {
+      "animeTitle": "Marriagetoxin",
+      "episode": 2,
+      "page": "AnimeAV1",
+      "url": "https://animeav1.com/media/marriagetoxin/2"
+    },
+    {
+      "animeTitle": "Marriagetoxin",
+      "episode": 1,
+      "page": "AnimeAV1",
+      "url": "https://animeav1.com/media/marriagetoxin/1"
+    },
+    {
+      "animeTitle": "Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Tami no Tame ni Tsukushimasu. Season 2",
+      "episode": 6,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/lastboss-joou-s2-6"
+    },
+    {
+      "animeTitle": "Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Tami no Tame ni Tsukushimasu. Season 2",
+      "episode": 6,
+      "page": "JKAnime",
+      "url": "https://www.jkanime.net/higeki-no-genkyou-to-naru-saikyou-gedou-last-boss-joou-wa-tami-no-tame-ni-tsukushimasu-season-2/6/"
+    },
+    {
+      "animeTitle": "Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Tami no Tame ni Tsukushimasu. Season 2",
+      "episode": 6,
+      "page": "AnimeAV1",
+      "url": "https://animeav1.com/media/higeki-no-genkyou-to-naru-saikyou-gedou-last-boss-joou-wa-tami-no-tame-ni-tsukushimasu-season-2/6"
+    },
+    {
+      "animeTitle": "Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Tami no Tame ni Tsukushimasu. Season 2",
+      "episode": 5,
+      "page": "AnimeAV1",
+      "url": "https://animeav1.com/media/higeki-no-genkyou-to-naru-saikyou-gedou-last-boss-joou-wa-tami-no-tame-ni-tsukushimasu-season-2/5"
+    },
+    {
+      "animeTitle": "Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Tami no Tame ni Tsukushimasu. Season 2",
+      "episode": 4,
+      "page": "AnimeAV1",
+      "url": "https://animeav1.com/media/higeki-no-genkyou-to-naru-saikyou-gedou-last-boss-joou-wa-tami-no-tame-ni-tsukushimasu-season-2/4"
+    },
+    {
+      "animeTitle": "Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Tami no Tame ni Tsukushimasu. Season 2",
+      "episode": 3,
+      "page": "AnimeAV1",
+      "url": "https://animeav1.com/media/higeki-no-genkyou-to-naru-saikyou-gedou-last-boss-joou-wa-tami-no-tame-ni-tsukushimasu-season-2/3"
+    },
+    {
+      "animeTitle": "Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Tami no Tame ni Tsukushimasu. Season 2",
+      "episode": 2,
+      "page": "AnimeAV1",
+      "url": "https://animeav1.com/media/higeki-no-genkyou-to-naru-saikyou-gedou-last-boss-joou-wa-tami-no-tame-ni-tsukushimasu-season-2/2"
+    },
+    {
+      "animeTitle": "Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Tami no Tame ni Tsukushimasu. Season 2",
+      "episode": 1,
+      "page": "AnimeAV1",
+      "url": "https://animeav1.com/media/higeki-no-genkyou-to-naru-saikyou-gedou-last-boss-joou-wa-tami-no-tame-ni-tsukushimasu-season-2/1"
+    },
+    {
+      "animeTitle": "Hyakki Yakoushou",
+      "episode": 6,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/hyakki-yakoushou-6"
+    },
+    {
+      "animeTitle": "Hyakki Yakoushou",
+      "episode": 6,
+      "page": "JKAnime",
+      "url": "https://www.jkanime.net/hyakki-yakoushou/6/"
+    },
+    {
+      "animeTitle": "Hyakki Yakoushou",
+      "episode": 6,
+      "page": "AnimeAV1",
+      "url": "https://animeav1.com/media/hyakki-yakoushou/6"
+    },
+    {
+      "animeTitle": "Hyakki Yakoushou",
+      "episode": 5,
+      "page": "AnimeAV1",
+      "url": "https://animeav1.com/media/hyakki-yakoushou/5"
+    },
+    {
+      "animeTitle": "Hyakki Yakoushou",
+      "episode": 4,
+      "page": "AnimeAV1",
+      "url": "https://animeav1.com/media/hyakki-yakoushou/4"
+    },
+    {
+      "animeTitle": "Hyakki Yakoushou",
+      "episode": 3,
+      "page": "AnimeAV1",
+      "url": "https://animeav1.com/media/hyakki-yakoushou/3"
+    },
+    {
+      "animeTitle": "Hyakki Yakoushou",
+      "episode": 2,
+      "page": "AnimeAV1",
+      "url": "https://animeav1.com/media/hyakki-yakoushou/2"
+    },
+    {
+      "animeTitle": "Hyakki Yakoushou",
+      "episode": 1,
+      "page": "AnimeAV1",
+      "url": "https://animeav1.com/media/hyakki-yakoushou/1"
+    },
+    {
+      "animeTitle": "Liar Game",
+      "episode": 6,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/liar-game-6"
+    },
+    {
+      "animeTitle": "Liar Game",
+      "episode": 6,
+      "page": "JKAnime",
+      "url": "https://www.jkanime.net/liar-game/6/"
+    },
+    {
+      "animeTitle": "Liar Game",
+      "episode": 6,
+      "page": "AnimeAV1",
+      "url": "https://animeav1.com/media/liar-game/6"
+    },
+    {
+      "animeTitle": "Liar Game",
+      "episode": 6,
+      "page": "AnimeFLV",
+      "url": "https://www3.animeflv.net/ver/liar-game-6"
+    },
+    {
+      "animeTitle": "Liar Game",
+      "episode": 5,
+      "page": "AnimeAV1",
+      "url": "https://animeav1.com/media/liar-game/5"
+    },
+    {
+      "animeTitle": "Liar Game",
+      "episode": 4,
+      "page": "AnimeAV1",
+      "url": "https://animeav1.com/media/liar-game/4"
+    },
+    {
+      "animeTitle": "Liar Game",
+      "episode": 3,
+      "page": "AnimeAV1",
+      "url": "https://animeav1.com/media/liar-game/3"
+    },
+    {
+      "animeTitle": "Liar Game",
+      "episode": 2,
+      "page": "AnimeAV1",
+      "url": "https://animeav1.com/media/liar-game/2"
+    },
+    {
+      "animeTitle": "Liar Game",
+      "episode": 1,
+      "page": "AnimeAV1",
+      "url": "https://animeav1.com/media/liar-game/1"
+    },
+    {
+      "animeTitle": "Ponkotsu Fuuki Iin to Skirt-take ga Futekisetsu na JK no Hanashi",
+      "episode": 6,
+      "page": "AnimeFenix",
+      "url": "https://animefenix2.tv/ver/fuuki-iin-jk-6"
+    },
+    {
+      "animeTitle": "Ponkotsu Fuuki Iin to Skirt-take ga Futekisetsu na JK no Hanashi",
+      "episode": 6,
+      "page": "JKAnime",
+      "url": "https://www.jkanime.net/ponkotsu-fuuki-iin-to-skirt-take-ga-futekisetsu-na-jk-no-hanashi/6/"
+    },
+    {
+      "animeTitle": "Ponkotsu Fuuki Iin to Skirt-take ga Futekisetsu na JK no Hanashi",
+      "episode": 6,
+      "page": "AnimeAV1",
+      "url": "https://animeav1.com/media/ponkotsu-fuuki-iin-to-skirt-take-ga-futekisetsu-na-jk-no-hanashi/6"
+    },
+    {
+      "animeTitle": "Ponkotsu Fuuki Iin to Skirt-take ga Futekisetsu na JK no Hanashi",
+      "episode": 6,
+      "page": "AnimeFLV",
+      "url": "https://www3.animeflv.net/ver/ponkotsu-fuuki-iin-to-skirttake-ga-futekisetsu-na-jk-no-hanashi-6"
+    },
+    {
+      "animeTitle": "Ponkotsu Fuuki Iin to Skirt-take ga Futekisetsu na JK no Hanashi",
+      "episode": 5,
+      "page": "AnimeAV1",
+      "url": "https://animeav1.com/media/ponkotsu-fuuki-iin-to-skirt-take-ga-futekisetsu-na-jk-no-hanashi/5"
+    },
+    {
+      "animeTitle": "Ponkotsu Fuuki Iin to Skirt-take ga Futekisetsu na JK no Hanashi",
+      "episode": 4,
+      "page": "AnimeAV1",
+      "url": "https://animeav1.com/media/ponkotsu-fuuki-iin-to-skirt-take-ga-futekisetsu-na-jk-no-hanashi/4"
+    },
+    {
+      "animeTitle": "Ponkotsu Fuuki Iin to Skirt-take ga Futekisetsu na JK no Hanashi",
+      "episode": 3,
+      "page": "AnimeAV1",
+      "url": "https://animeav1.com/media/ponkotsu-fuuki-iin-to-skirt-take-ga-futekisetsu-na-jk-no-hanashi/3"
+    },
+    {
+      "animeTitle": "Ponkotsu Fuuki Iin to Skirt-take ga Futekisetsu na JK no Hanashi",
+      "episode": 2,
+      "page": "AnimeAV1",
+      "url": "https://animeav1.com/media/ponkotsu-fuuki-iin-to-skirt-take-ga-futekisetsu-na-jk-no-hanashi/2"
+    },
+    {
+      "animeTitle": "Ponkotsu Fuuki Iin to Skirt-take ga Futekisetsu na JK no Hanashi",
+      "episode": 1,
+      "page": "AnimeAV1",
+      "url": "https://animeav1.com/media/ponkotsu-fuuki-iin-to-skirt-take-ga-futekisetsu-na-jk-no-hanashi/1"
+    },
+    {
+      "animeTitle": "2.5-jigen no Ririsa",
+      "episode": 16,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/25-jigen-no-ririsa/16/"
+    },
+    {
+      "animeTitle": "2.5-jigen no Ririsa",
+      "episode": 15,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/25-jigen-no-ririsa/15/"
+    },
+    {
+      "animeTitle": "2.5-jigen no Ririsa",
+      "episode": 14,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/25-jigen-no-ririsa/14/"
+    },
+    {
+      "animeTitle": "2.5-jigen no Ririsa",
+      "episode": 13,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/25-jigen-no-ririsa/13/"
+    },
+    {
+      "animeTitle": "Kono Sekai wa Fukanzen Sugiru",
+      "episode": 13,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/kono-sekai-wa-fukanzen-sugiru/13/"
+    },
+    {
+      "animeTitle": "Monogatari Series: Off & Monster Season",
+      "episode": 14,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/monogatari-series-off-monster-season/14/"
+    },
+    {
+      "animeTitle": "Monogatari Series: Off & Monster Season",
+      "episode": 13,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/monogatari-series-off-monster-season/13/"
+    },
+    {
+      "animeTitle": "Tasuuketsu",
+      "episode": 16,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/tasuuketsu/16/"
+    },
+    {
+      "animeTitle": "Tasuuketsu",
+      "episode": 15,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/tasuuketsu/15/"
+    },
+    {
+      "animeTitle": "Tasuuketsu",
+      "episode": 14,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/tasuuketsu/14/"
+    },
+    {
+      "animeTitle": "Tasuuketsu",
+      "episode": 13,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/tasuuketsu/13/"
+    },
+    {
+      "animeTitle": "Cardfight!! Vanguard: Divinez Season 2",
+      "episode": 13,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/cardfight-vanguard-divinez-season-2/13/"
     }
   ],
   "updatedUrls": [],
