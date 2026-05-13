@@ -1,617 +1,317 @@
 {
-  "addedAnime": [
-    {
-      "animeTitle": "Jintian De Wancan Jiushi Ni"
-    }
-  ],
+  "addedAnime": [],
   "removedAnime": [],
   "addedEpisodes": [
     {
-      "animeTitle": "Jintian De Wancan Jiushi Ni",
+      "animeTitle": "Yozakura-san Chi no Daisakusen 2nd Season",
       "episode": 16
     },
     {
-      "animeTitle": "Jintian De Wancan Jiushi Ni",
+      "animeTitle": "Yozakura-san Chi no Daisakusen 2nd Season",
       "episode": 15
     },
     {
-      "animeTitle": "Jintian De Wancan Jiushi Ni",
+      "animeTitle": "Yozakura-san Chi no Daisakusen 2nd Season",
       "episode": 14
     },
     {
-      "animeTitle": "Jintian De Wancan Jiushi Ni",
+      "animeTitle": "Yozakura-san Chi no Daisakusen 2nd Season",
       "episode": 13
     },
     {
-      "animeTitle": "Jintian De Wancan Jiushi Ni",
+      "animeTitle": "Yozakura-san Chi no Daisakusen 2nd Season",
       "episode": 12
     },
     {
-      "animeTitle": "Jintian De Wancan Jiushi Ni",
+      "animeTitle": "Yozakura-san Chi no Daisakusen 2nd Season",
       "episode": 11
     },
     {
-      "animeTitle": "Jintian De Wancan Jiushi Ni",
+      "animeTitle": "Yozakura-san Chi no Daisakusen 2nd Season",
       "episode": 10
     },
     {
-      "animeTitle": "Jintian De Wancan Jiushi Ni",
+      "animeTitle": "Yozakura-san Chi no Daisakusen 2nd Season",
       "episode": 9
     },
     {
-      "animeTitle": "Jintian De Wancan Jiushi Ni",
+      "animeTitle": "Yozakura-san Chi no Daisakusen 2nd Season",
       "episode": 8
     },
     {
-      "animeTitle": "Jintian De Wancan Jiushi Ni",
+      "animeTitle": "Yozakura-san Chi no Daisakusen 2nd Season",
       "episode": 7
     },
     {
-      "animeTitle": "Jintian De Wancan Jiushi Ni",
+      "animeTitle": "Yozakura-san Chi no Daisakusen 2nd Season",
       "episode": 6
     },
     {
-      "animeTitle": "Jintian De Wancan Jiushi Ni",
-      "episode": 5
-    },
-    {
-      "animeTitle": "Jintian De Wancan Jiushi Ni",
-      "episode": 4
-    },
-    {
-      "animeTitle": "Jintian De Wancan Jiushi Ni",
-      "episode": 3
-    },
-    {
-      "animeTitle": "Jintian De Wancan Jiushi Ni",
-      "episode": 2
-    },
-    {
-      "animeTitle": "Jintian De Wancan Jiushi Ni",
-      "episode": 1
-    },
-    {
-      "animeTitle": "Fanpai Chushihua",
-      "episode": 16
-    },
-    {
-      "animeTitle": "Fanpai Chushihua",
-      "episode": 15
-    },
-    {
-      "animeTitle": "Fanpai Chushihua",
-      "episode": 14
-    },
-    {
-      "animeTitle": "Fanpai Chushihua",
-      "episode": 13
-    },
-    {
-      "animeTitle": "Fanpai Chushihua",
-      "episode": 12
-    },
-    {
-      "animeTitle": "Fanpai Chushihua",
+      "animeTitle": "Shen Zhiyi Jiao",
       "episode": 11
     },
     {
-      "animeTitle": "Fanpai Chushihua",
+      "animeTitle": "Shen Zhiyi Jiao",
       "episode": 10
     },
     {
-      "animeTitle": "Fanpai Chushihua",
+      "animeTitle": "Shen Zhiyi Jiao",
       "episode": 9
     },
     {
-      "animeTitle": "Fanpai Chushihua",
+      "animeTitle": "Shen Zhiyi Jiao",
       "episode": 8
     },
     {
-      "animeTitle": "Fanpai Chushihua",
+      "animeTitle": "Shen Zhiyi Jiao",
       "episode": 7
     },
     {
-      "animeTitle": "Fanpai Chushihua",
+      "animeTitle": "Shen Zhiyi Jiao",
       "episode": 6
     },
     {
-      "animeTitle": "Fanpai Chushihua",
+      "animeTitle": "Shen Zhiyi Jiao",
       "episode": 5
     },
     {
-      "animeTitle": "Fanpai Chushihua",
+      "animeTitle": "Shen Zhiyi Jiao",
       "episode": 4
     },
     {
-      "animeTitle": "Fanpai Chushihua",
+      "animeTitle": "Shen Zhiyi Jiao",
       "episode": 3
     },
     {
-      "animeTitle": "Fanpai Chushihua",
+      "animeTitle": "Shen Zhiyi Jiao",
       "episode": 2
     },
     {
-      "animeTitle": "Fanpai Chushihua",
+      "animeTitle": "Shen Zhiyi Jiao",
       "episode": 1
     },
     {
-      "animeTitle": "Anhe Zhuan Part 2",
-      "episode": 14
-    },
-    {
-      "animeTitle": "Anhe Zhuan Part 2",
+      "animeTitle": "Xuwu Bianjing",
       "episode": 13
     },
     {
-      "animeTitle": "Jantama Kan!!",
-      "episode": 13
-    },
-    {
-      "animeTitle": "Jantama Kan!!",
+      "animeTitle": "Xuwu Bianjing",
       "episode": 12
     },
     {
-      "animeTitle": "Jantama Kan!!",
+      "animeTitle": "Xuwu Bianjing",
       "episode": 11
     },
     {
-      "animeTitle": "Jantama Kan!!",
+      "animeTitle": "Xuwu Bianjing",
       "episode": 10
     },
     {
-      "animeTitle": "Jantama Kan!!",
+      "animeTitle": "Xuwu Bianjing",
       "episode": 9
     },
     {
-      "animeTitle": "Jantama Kan!!",
+      "animeTitle": "Xuwu Bianjing",
       "episode": 8
     },
     {
-      "animeTitle": "Jantama Kan!!",
+      "animeTitle": "Xuwu Bianjing",
       "episode": 7
     },
     {
-      "animeTitle": "Jantama Kan!!",
+      "animeTitle": "Xuwu Bianjing",
       "episode": 6
     },
     {
-      "animeTitle": "Jantama Kan!!",
+      "animeTitle": "Xuwu Bianjing",
       "episode": 5
     },
     {
-      "animeTitle": "Jantama Kan!!",
+      "animeTitle": "Xuwu Bianjing",
       "episode": 4
     },
     {
-      "animeTitle": "Jantama Kan!!",
+      "animeTitle": "Xuwu Bianjing",
       "episode": 3
     },
     {
-      "animeTitle": "Jantama Kan!!",
+      "animeTitle": "Xuwu Bianjing",
       "episode": 2
     },
     {
-      "animeTitle": "Jantama Kan!!",
+      "animeTitle": "Xuwu Bianjing",
       "episode": 1
-    },
-    {
-      "animeTitle": "You Shou Yan 3rd Season",
-      "episode": 12
-    },
-    {
-      "animeTitle": "You Shou Yan 3rd Season",
-      "episode": 11
-    },
-    {
-      "animeTitle": "You Shou Yan 3rd Season",
-      "episode": 10
-    },
-    {
-      "animeTitle": "You Shou Yan 3rd Season",
-      "episode": 9
-    },
-    {
-      "animeTitle": "You Shou Yan 3rd Season",
-      "episode": 8
-    },
-    {
-      "animeTitle": "You Shou Yan 3rd Season",
-      "episode": 7
-    },
-    {
-      "animeTitle": "You Shou Yan 3rd Season",
-      "episode": 6
-    },
-    {
-      "animeTitle": "You Shou Yan 3rd Season",
-      "episode": 5
-    },
-    {
-      "animeTitle": "You Shou Yan 3rd Season",
-      "episode": 4
-    },
-    {
-      "animeTitle": "You Shou Yan 3rd Season",
-      "episode": 3
-    },
-    {
-      "animeTitle": "You Shou Yan 3rd Season",
-      "episode": 2
-    },
-    {
-      "animeTitle": "You Shou Yan 3rd Season",
-      "episode": 1
-    },
-    {
-      "animeTitle": "Jinwu Wei: Feng Qi Jinling",
-      "episode": 7
-    },
-    {
-      "animeTitle": "Jinwu Wei: Feng Qi Jinling",
-      "episode": 6
-    },
-    {
-      "animeTitle": "Jinwu Wei: Feng Qi Jinling",
-      "episode": 5
-    },
-    {
-      "animeTitle": "Jinwu Wei: Feng Qi Jinling",
-      "episode": 4
-    },
-    {
-      "animeTitle": "Jinwu Wei: Feng Qi Jinling",
-      "episode": 3
-    },
-    {
-      "animeTitle": "Jinwu Wei: Feng Qi Jinling",
-      "episode": 2
-    },
-    {
-      "animeTitle": "Jinwu Wei: Feng Qi Jinling",
-      "episode": 1
-    },
-    {
-      "animeTitle": "Xiehou Ta de Shaonu Shidai",
-      "episode": 16
-    },
-    {
-      "animeTitle": "Xiehou Ta de Shaonu Shidai",
-      "episode": 15
-    },
-    {
-      "animeTitle": "Xiehou Ta de Shaonu Shidai",
-      "episode": 14
-    },
-    {
-      "animeTitle": "Xiehou Ta de Shaonu Shidai",
-      "episode": 13
-    },
-    {
-      "animeTitle": "Xiehou Ta de Shaonu Shidai",
-      "episode": 12
-    },
-    {
-      "animeTitle": "Xiehou Ta de Shaonu Shidai",
-      "episode": 11
-    },
-    {
-      "animeTitle": "Xiehou Ta de Shaonu Shidai",
-      "episode": 10
-    },
-    {
-      "animeTitle": "Xiehou Ta de Shaonu Shidai",
-      "episode": 9
-    },
-    {
-      "animeTitle": "Xiehou Ta de Shaonu Shidai",
-      "episode": 8
-    },
-    {
-      "animeTitle": "Xiehou Ta de Shaonu Shidai",
-      "episode": 7
-    },
-    {
-      "animeTitle": "Xiehou Ta de Shaonu Shidai",
-      "episode": 6
-    },
-    {
-      "animeTitle": "Xiehou Ta de Shaonu Shidai",
-      "episode": 5
-    },
-    {
-      "animeTitle": "Xiehou Ta de Shaonu Shidai",
-      "episode": 4
-    },
-    {
-      "animeTitle": "Xiehou Ta de Shaonu Shidai",
-      "episode": 3
-    },
-    {
-      "animeTitle": "Xiehou Ta de Shaonu Shidai",
-      "episode": 2
-    },
-    {
-      "animeTitle": "Xiehou Ta de Shaonu Shidai",
-      "episode": 1
-    },
-    {
-      "animeTitle": "Huan Chong Shi",
-      "episode": 14
-    },
-    {
-      "animeTitle": "Huan Chong Shi",
-      "episode": 13
-    },
-    {
-      "animeTitle": "Huan Chong Shi",
-      "episode": 12
-    },
-    {
-      "animeTitle": "Huan Chong Shi",
-      "episode": 11
-    },
-    {
-      "animeTitle": "Huan Chong Shi",
-      "episode": 10
-    },
-    {
-      "animeTitle": "Huan Chong Shi",
-      "episode": 9
-    },
-    {
-      "animeTitle": "Huan Chong Shi",
-      "episode": 8
-    },
-    {
-      "animeTitle": "Huan Chong Shi",
-      "episode": 7
-    },
-    {
-      "animeTitle": "Huan Chong Shi",
-      "episode": 6
-    },
-    {
-      "animeTitle": "Huan Chong Shi",
-      "episode": 5
-    },
-    {
-      "animeTitle": "Huan Chong Shi",
-      "episode": 4
-    },
-    {
-      "animeTitle": "Huan Chong Shi",
-      "episode": 3
-    },
-    {
-      "animeTitle": "Huan Chong Shi",
-      "episode": 2
-    },
-    {
-      "animeTitle": "Huan Chong Shi",
-      "episode": 1
-    },
-    {
-      "animeTitle": "Long Zu II: Daowangzhe Zhi Tong",
-      "episode": 15
-    },
-    {
-      "animeTitle": "Long Zu II: Daowangzhe Zhi Tong",
-      "episode": 14
-    },
-    {
-      "animeTitle": "Long Zu II: Daowangzhe Zhi Tong",
-      "episode": 13
-    },
-    {
-      "animeTitle": "Long Zu II: Daowangzhe Zhi Tong",
-      "episode": 12
     }
   ],
   "removedEpisodes": [],
   "addedUrls": [
     {
-      "animeTitle": "Jintian De Wancan Jiushi Ni",
-      "episode": 16,
-      "page": "JKAnime",
-      "url": "https://jkanime.net/jintian-de-wancan-jiushi-ni/16/"
-    },
-    {
-      "animeTitle": "Jintian De Wancan Jiushi Ni",
-      "episode": 15,
-      "page": "JKAnime",
-      "url": "https://jkanime.net/jintian-de-wancan-jiushi-ni/15/"
-    },
-    {
-      "animeTitle": "Jintian De Wancan Jiushi Ni",
-      "episode": 14,
-      "page": "JKAnime",
-      "url": "https://jkanime.net/jintian-de-wancan-jiushi-ni/14/"
-    },
-    {
-      "animeTitle": "Jintian De Wancan Jiushi Ni",
-      "episode": 13,
-      "page": "JKAnime",
-      "url": "https://jkanime.net/jintian-de-wancan-jiushi-ni/13/"
-    },
-    {
-      "animeTitle": "Jintian De Wancan Jiushi Ni",
-      "episode": 12,
-      "page": "JKAnime",
-      "url": "https://jkanime.net/jintian-de-wancan-jiushi-ni/12/"
-    },
-    {
-      "animeTitle": "Jintian De Wancan Jiushi Ni",
-      "episode": 11,
-      "page": "JKAnime",
-      "url": "https://jkanime.net/jintian-de-wancan-jiushi-ni/11/"
-    },
-    {
-      "animeTitle": "Jintian De Wancan Jiushi Ni",
-      "episode": 10,
-      "page": "JKAnime",
-      "url": "https://jkanime.net/jintian-de-wancan-jiushi-ni/10/"
-    },
-    {
-      "animeTitle": "Jintian De Wancan Jiushi Ni",
-      "episode": 9,
-      "page": "JKAnime",
-      "url": "https://jkanime.net/jintian-de-wancan-jiushi-ni/9/"
-    },
-    {
-      "animeTitle": "Jintian De Wancan Jiushi Ni",
-      "episode": 8,
-      "page": "JKAnime",
-      "url": "https://jkanime.net/jintian-de-wancan-jiushi-ni/8/"
-    },
-    {
-      "animeTitle": "Jintian De Wancan Jiushi Ni",
-      "episode": 7,
-      "page": "JKAnime",
-      "url": "https://jkanime.net/jintian-de-wancan-jiushi-ni/7/"
-    },
-    {
-      "animeTitle": "Jintian De Wancan Jiushi Ni",
-      "episode": 6,
-      "page": "JKAnime",
-      "url": "https://jkanime.net/jintian-de-wancan-jiushi-ni/6/"
-    },
-    {
-      "animeTitle": "Jintian De Wancan Jiushi Ni",
-      "episode": 5,
-      "page": "JKAnime",
-      "url": "https://jkanime.net/jintian-de-wancan-jiushi-ni/5/"
-    },
-    {
-      "animeTitle": "Jintian De Wancan Jiushi Ni",
+      "animeTitle": "Yozakura-san Chi no Daisakusen 2nd Season",
       "episode": 4,
       "page": "JKAnime",
-      "url": "https://jkanime.net/jintian-de-wancan-jiushi-ni/4/"
+      "url": "https://jkanime.net/yozakura-san-chi-no-daisakusen/4/"
     },
     {
-      "animeTitle": "Jintian De Wancan Jiushi Ni",
+      "animeTitle": "Yozakura-san Chi no Daisakusen 2nd Season",
       "episode": 3,
       "page": "JKAnime",
-      "url": "https://jkanime.net/jintian-de-wancan-jiushi-ni/3/"
+      "url": "https://jkanime.net/yozakura-san-chi-no-daisakusen/3/"
     },
     {
-      "animeTitle": "Jintian De Wancan Jiushi Ni",
+      "animeTitle": "Yozakura-san Chi no Daisakusen 2nd Season",
       "episode": 2,
       "page": "JKAnime",
-      "url": "https://jkanime.net/jintian-de-wancan-jiushi-ni/2/"
+      "url": "https://jkanime.net/yozakura-san-chi-no-daisakusen/2/"
     },
     {
-      "animeTitle": "Jintian De Wancan Jiushi Ni",
+      "animeTitle": "Yozakura-san Chi no Daisakusen 2nd Season",
       "episode": 1,
       "page": "JKAnime",
-      "url": "https://jkanime.net/jintian-de-wancan-jiushi-ni/1/"
+      "url": "https://jkanime.net/yozakura-san-chi-no-daisakusen/1/"
     },
     {
-      "animeTitle": "Dead Dead Demons Dededede Destruction (ONA)",
-      "episode": 15,
-      "page": "JKAnime",
-      "url": "https://jkanime.net/dead-dead-demons-dededede-destruction-ona/15/"
-    },
-    {
-      "animeTitle": "Dead Dead Demons Dededede Destruction (ONA)",
-      "episode": 14,
-      "page": "JKAnime",
-      "url": "https://jkanime.net/dead-dead-demons-dededede-destruction-ona/14/"
-    },
-    {
-      "animeTitle": "Dead Dead Demons Dededede Destruction (ONA)",
-      "episode": 13,
-      "page": "JKAnime",
-      "url": "https://jkanime.net/dead-dead-demons-dededede-destruction-ona/13/"
-    },
-    {
-      "animeTitle": "Dead Dead Demons Dededede Destruction (ONA)",
-      "episode": 12,
-      "page": "JKAnime",
-      "url": "https://jkanime.net/dead-dead-demons-dededede-destruction-ona/12/"
-    },
-    {
-      "animeTitle": "Kono Subarashii Sekai ni Shukufuku wo! 3",
-      "episode": 13,
-      "page": "JKAnime",
-      "url": "https://jkanime.net/kono-subarashii-sekai-ni-shukufuku-wo-3/13/"
-    },
-    {
-      "animeTitle": "Boku no Hero Academia 7th Season",
+      "animeTitle": "Shinkalion: Change the World",
       "episode": 16,
       "page": "JKAnime",
-      "url": "https://jkanime.net/boku-no-hero-academia-7th-season/16/"
+      "url": "https://jkanime.net/shinkalion-change-the-world/16/"
     },
     {
-      "animeTitle": "Boku no Hero Academia 7th Season",
+      "animeTitle": "Shinkalion: Change the World",
       "episode": 15,
       "page": "JKAnime",
-      "url": "https://jkanime.net/boku-no-hero-academia-7th-season/15/"
+      "url": "https://jkanime.net/shinkalion-change-the-world/15/"
     },
     {
-      "animeTitle": "Boku no Hero Academia 7th Season",
+      "animeTitle": "Shinkalion: Change the World",
       "episode": 14,
       "page": "JKAnime",
-      "url": "https://jkanime.net/boku-no-hero-academia-7th-season/14/"
+      "url": "https://jkanime.net/shinkalion-change-the-world/14/"
     },
     {
-      "animeTitle": "Boku no Hero Academia 7th Season",
+      "animeTitle": "Shinkalion: Change the World",
       "episode": 13,
       "page": "JKAnime",
-      "url": "https://jkanime.net/boku-no-hero-academia-7th-season/13/"
+      "url": "https://jkanime.net/shinkalion-change-the-world/13/"
     },
     {
-      "animeTitle": "Quanzhi Gaoshou 3",
+      "animeTitle": "Himitsu no AiPri",
       "episode": 16,
       "page": "JKAnime",
-      "url": "https://jkanime.net/quanzhi-gaoshou-3/16/"
+      "url": "https://jkanime.net/himitsu-no-aipri/16/"
     },
     {
-      "animeTitle": "Quanzhi Gaoshou 3",
+      "animeTitle": "Himitsu no AiPri",
       "episode": 15,
       "page": "JKAnime",
-      "url": "https://jkanime.net/quanzhi-gaoshou-3/15/"
+      "url": "https://jkanime.net/himitsu-no-aipri/15/"
     },
     {
-      "animeTitle": "Quanzhi Gaoshou 3",
+      "animeTitle": "Himitsu no AiPri",
       "episode": 14,
       "page": "JKAnime",
-      "url": "https://jkanime.net/quanzhi-gaoshou-3/14/"
+      "url": "https://jkanime.net/himitsu-no-aipri/14/"
     },
     {
-      "animeTitle": "Quanzhi Gaoshou 3",
+      "animeTitle": "Himitsu no AiPri",
       "episode": 13,
       "page": "JKAnime",
-      "url": "https://jkanime.net/quanzhi-gaoshou-3/13/"
+      "url": "https://jkanime.net/himitsu-no-aipri/13/"
     },
     {
-      "animeTitle": "Suki demo Kirai na Amanojaku",
-      "episode": 1,
-      "page": "JKAnime",
-      "url": "https://jkanime.net/suki-demo-kirai-na-amanojaku/1/"
-    },
-    {
-      "animeTitle": "Shadowverse Flame: Arc-hen",
+      "animeTitle": "Karasu wa Aruji wo Erabanai",
       "episode": 16,
       "page": "JKAnime",
-      "url": "https://jkanime.net/shadowverse-flame-arc-hen/16/"
+      "url": "https://jkanime.net/karasu-wa-aruji-wo-erabanai/16/"
     },
     {
-      "animeTitle": "Shadowverse Flame: Arc-hen",
+      "animeTitle": "Karasu wa Aruji wo Erabanai",
       "episode": 15,
       "page": "JKAnime",
-      "url": "https://jkanime.net/shadowverse-flame-arc-hen/15/"
+      "url": "https://jkanime.net/karasu-wa-aruji-wo-erabanai/15/"
     },
     {
-      "animeTitle": "Shadowverse Flame: Arc-hen",
+      "animeTitle": "Karasu wa Aruji wo Erabanai",
       "episode": 14,
       "page": "JKAnime",
-      "url": "https://jkanime.net/shadowverse-flame-arc-hen/14/"
+      "url": "https://jkanime.net/karasu-wa-aruji-wo-erabanai/14/"
     },
     {
-      "animeTitle": "Shadowverse Flame: Arc-hen",
+      "animeTitle": "Karasu wa Aruji wo Erabanai",
       "episode": 13,
       "page": "JKAnime",
-      "url": "https://jkanime.net/shadowverse-flame-arc-hen/13/"
+      "url": "https://jkanime.net/karasu-wa-aruji-wo-erabanai/13/"
+    },
+    {
+      "animeTitle": "Tensei shitara Slime Datta Ken 3rd Season",
+      "episode": 16,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/tensei-shitara-slime-datta-ken-3rd-season/16/"
+    },
+    {
+      "animeTitle": "Tensei shitara Slime Datta Ken 3rd Season",
+      "episode": 15,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/tensei-shitara-slime-datta-ken-3rd-season/15/"
+    },
+    {
+      "animeTitle": "Tensei shitara Slime Datta Ken 3rd Season",
+      "episode": 14,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/tensei-shitara-slime-datta-ken-3rd-season/14/"
+    },
+    {
+      "animeTitle": "Tensei shitara Slime Datta Ken 3rd Season",
+      "episode": 13,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/tensei-shitara-slime-datta-ken-3rd-season/13/"
+    },
+    {
+      "animeTitle": "Mahouka Koukou no Rettousei 3rd Season",
+      "episode": 13,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/mahouka-koukou-no-rettousei-3rd-season/13/"
+    },
+    {
+      "animeTitle": "The Fable",
+      "episode": 16,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/the-fable/16/"
+    },
+    {
+      "animeTitle": "The Fable",
+      "episode": 15,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/the-fable/15/"
+    },
+    {
+      "animeTitle": "The Fable",
+      "episode": 14,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/the-fable/14/"
+    },
+    {
+      "animeTitle": "The Fable",
+      "episode": 13,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/the-fable/13/"
+    },
+    {
+      "animeTitle": "Tonari no Youkai-san",
+      "episode": 13,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/tonari-no-youkai-san/13/"
+    },
+    {
+      "animeTitle": "Hibike! Euphonium 3",
+      "episode": 13,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/hibike-euphonium-3/13/"
+    },
+    {
+      "animeTitle": "Ooi! Tonbo 2nd Season",
+      "episode": 13,
+      "page": "JKAnime",
+      "url": "https://jkanime.net/ooi-tonbo/13/"
     }
   ],
   "updatedUrls": [],
