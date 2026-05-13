@@ -1,4 +1,57 @@
-Titulo %SEPARATOR% Estado %SEPARATOR% Tipo %SEPARATOR% GenerosMazinger Z %SEPARATOR%  %SEPARATOR% Anime %SEPARATOR% Accion %SEPARATOR% Drama %SEPARATOR% Mecha %SEPARATOR% Sci-Fi %SEPARATOR% Shounen
+Titulo %SEPARATOR% Estado %SEPARATOR% Tipo %SEPARATOR% GenerosJintian De Wancan Jiushi Ni %SEPARATOR%  %SEPARATOR% Anime %SEPARATOR% Comedia %SEPARATOR% Fantasia
+"Oshi no Ko" 2nd Season %SEPARATOR%  %SEPARATOR% Anime %SEPARATOR% Drama %SEPARATOR% Sobrenatural
+Digimon Beatbreak %SEPARATOR%  %SEPARATOR% Anime %SEPARATOR% 
+Meitantei Precure! %SEPARATOR%  %SEPARATOR% Anime %SEPARATOR% 
+Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 4th Season %SEPARATOR%  %SEPARATOR% anime %SEPARATOR% 
+LasTame S2 %SEPARATOR%  %SEPARATOR% anime %SEPARATOR% 
+Ingoku Danchi %SEPARATOR%  %SEPARATOR% anime %SEPARATOR% 
+Isekai Nonbiri Nouka 2 %SEPARATOR%  %SEPARATOR% anime %SEPARATOR% 
+Tongari Boushi no Atelier %SEPARATOR%  %SEPARATOR% anime %SEPARATOR% 
+Ghost Concert: Missing Songs %SEPARATOR%  %SEPARATOR% anime %SEPARATOR% 
+Kuroneko to Majo no Kyoushitsu %SEPARATOR%  %SEPARATOR% anime %SEPARATOR% 
+Yozakura-san Chi no Daisakusen 2nd Season %SEPARATOR%  %SEPARATOR% anime %SEPARATOR% 
+Tsue to Tsurugi no Wistoria Season 2 %SEPARATOR%  %SEPARATOR% anime %SEPARATOR% 
+Niwatori Fighter %SEPARATOR%  %SEPARATOR% anime %SEPARATOR% 
+Maid-san wa Taberu dake %SEPARATOR%  %SEPARATOR% anime %SEPARATOR% 
+Nippon Sangoku %SEPARATOR%  %SEPARATOR% anime %SEPARATOR% 
+Diamond no Ace: Act II Second Season %SEPARATOR%  %SEPARATOR% anime %SEPARATOR% 
+Yuusha no Kuzu %SEPARATOR%  %SEPARATOR% anime %SEPARATOR% 
+Needy Girl Overdose %SEPARATOR%  %SEPARATOR% anime %SEPARATOR% 
+Ichijouma Mankitsugurashi! %SEPARATOR%  %SEPARATOR% anime %SEPARATOR% 
+Shunkashuutou Daikousha: Haru no Mai %SEPARATOR%  %SEPARATOR% anime %SEPARATOR% 
+Kami no Niwatsuki Kusunoki-tei %SEPARATOR%  %SEPARATOR% anime %SEPARATOR% 
+Mao %SEPARATOR%  %SEPARATOR% anime %SEPARATOR% 
+Akane-banashi %SEPARATOR%  %SEPARATOR% anime %SEPARATOR% 
+Yomi no Tsugai %SEPARATOR%  %SEPARATOR% anime %SEPARATOR% 
+Kanan-sama wa Akumade Choroi %SEPARATOR%  %SEPARATOR% anime %SEPARATOR% 
+Onegai AiPri %SEPARATOR%  %SEPARATOR% anime %SEPARATOR% 
+Yowayowa Sensei %SEPARATOR%  %SEPARATOR% anime %SEPARATOR% 
+Daikenja Riddle no Jikan Gyakkou %SEPARATOR%  %SEPARATOR% anime %SEPARATOR% 
+Mairimashita! Iruma-kun 4th Season %SEPARATOR%  %SEPARATOR% anime %SEPARATOR% 
+Saikyou no Shokugyou wa Yuusha demo Kenja demo Naku Kanteishi (Kari) Rashii desu yo? %SEPARATOR%  %SEPARATOR% anime %SEPARATOR% 
+Kill Ao %SEPARATOR%  %SEPARATOR% anime %SEPARATOR% 
+Mahou no Shimai Lulutto Lilly %SEPARATOR%  %SEPARATOR% anime %SEPARATOR% 
+Ganbare! Nakamura-kun!! %SEPARATOR%  %SEPARATOR% anime %SEPARATOR% 
+Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru? Season 2 %SEPARATOR%  %SEPARATOR% anime %SEPARATOR% 
+Nigashita Sakana wa Ookikatta ga Tsuriageta Sakana ga Ookisugita Ken %SEPARATOR%  %SEPARATOR% anime %SEPARATOR% 
+Otaku ni Yasashii Gal wa Inai!? %SEPARATOR%  %SEPARATOR% anime %SEPARATOR% 
+Re:Zero kara Hajimeru Isekai Seikatsu 4th Season %SEPARATOR%  %SEPARATOR% anime %SEPARATOR% 
+Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 3rd Season %SEPARATOR%  %SEPARATOR% anime %SEPARATOR% 
+Dorohedoro Season 2 %SEPARATOR%  %SEPARATOR% anime %SEPARATOR% 
+Kanojo, Okarishimasu 5th Season %SEPARATOR%  %SEPARATOR% anime %SEPARATOR% 
+Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 4th Season: 2-nensei-hen 1 Gakki %SEPARATOR%  %SEPARATOR% anime %SEPARATOR% 
+Megami "Isekai Tensei Nani ni Naritai desu ka" Ore "Yuusha no Rokkotsu de" %SEPARATOR%  %SEPARATOR% anime %SEPARATOR% 
+Tadaima, Ojamasaremasu! %SEPARATOR%  %SEPARATOR% anime %SEPARATOR% 
+Hidarikiki no Eren %SEPARATOR%  %SEPARATOR% anime %SEPARATOR% 
+Class de 2-banme ni Kawaii Onnanoko to Tomodachi ni Natta %SEPARATOR%  %SEPARATOR% anime %SEPARATOR% 
+Replica datte, Koi wo Suru. %SEPARATOR%  %SEPARATOR% anime %SEPARATOR% 
+Aishiteru Game wo Owarasetai %SEPARATOR%  %SEPARATOR% anime %SEPARATOR% 
+Marriagetoxin %SEPARATOR%  %SEPARATOR% anime %SEPARATOR% 
+Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Tami no Tame ni Tsukushimasu. Season 2 %SEPARATOR%  %SEPARATOR% anime %SEPARATOR% 
+Hyakki Yakoushou %SEPARATOR%  %SEPARATOR% anime %SEPARATOR% 
+Liar Game %SEPARATOR%  %SEPARATOR% anime %SEPARATOR% 
+Ponkotsu Fuuki Iin to Skirt-take ga Futekisetsu na JK no Hanashi %SEPARATOR%  %SEPARATOR% anime %SEPARATOR% 
+Mazinger Z %SEPARATOR%  %SEPARATOR% Anime %SEPARATOR% Accion %SEPARATOR% Drama %SEPARATOR% Mecha %SEPARATOR% Sci-Fi %SEPARATOR% Shounen
 Alps no Shoujo Heidi %SEPARATOR%  %SEPARATOR% Anime %SEPARATOR% Cosas de la vida %SEPARATOR% Drama %SEPARATOR% Historico
 Uchuu Kaizoku Captain Herlock %SEPARATOR%  %SEPARATOR% Anime %SEPARATOR% Accion %SEPARATOR% Aventura %SEPARATOR% Drama %SEPARATOR% Sci-Fi
 Ginga Tetsudou 999 (Movie) %SEPARATOR%  %SEPARATOR% Anime %SEPARATOR% Aventura %SEPARATOR% Drama %SEPARATOR% Fantasia %SEPARATOR% Sci-Fi
@@ -4447,7 +4500,7 @@ Sasayaku You ni Koi wo Utau %SEPARATOR% Finalizado %SEPARATOR% Anime %SEPARATOR%
 Touken Ranbu Kai: Kyoden Moyuru Honnouji %SEPARATOR% Finalizado %SEPARATOR% Anime %SEPARATOR% 
 Boku no Hero Academia 7th Season %SEPARATOR% Finalizado %SEPARATOR% Anime %SEPARATOR% Accion %SEPARATOR% Colegial %SEPARATOR% Shounen
 Kimetsu no Yaiba: Hashira Geiko-hen %SEPARATOR% Finalizado %SEPARATOR% Anime %SEPARATOR% Accion %SEPARATOR% Fantasia %SEPARATOR% Shounen
-Code Geass: Dakkan no Rozé %SEPARATOR% Finalizado %SEPARATOR% Anime TV %SEPARATOR% Militar %SEPARATOR% Superpoderes %SEPARATOR% Sci-Fi %SEPARATOR% Drama %SEPARATOR% Accion
+Code Geass: Dakkan no Rozé %SEPARATOR% Finalizado %SEPARATOR% Anime TV %SEPARATOR% Accion %SEPARATOR% Drama %SEPARATOR% Militar %SEPARATOR% Sci-Fi %SEPARATOR% Super Poderes %SEPARATOR% Superpoderes
 Maougun Saikyou no Majutsushi wa Ningen datta %SEPARATOR% Finalizado %SEPARATOR% Anime %SEPARATOR% Fantasia %SEPARATOR% Aventura %SEPARATOR% Accion
 Isekai Suicide Squad %SEPARATOR% Finalizado %SEPARATOR% Anime %SEPARATOR% Accion
 Boku no Tsuma wa Kanjou ga Nai %SEPARATOR% Finalizado %SEPARATOR% Anime %SEPARATOR% Seinen %SEPARATOR% Sci-Fi %SEPARATOR% Romance %SEPARATOR% Comedia
@@ -5937,7 +5990,7 @@ Kaichou wa Maid-sama! %SEPARATOR% Finalizado %SEPARATOR% Anime %SEPARATOR% Coleg
 Garouden: The Way of the Lone Wolf %SEPARATOR% Finalizado %SEPARATOR% Anime %SEPARATOR% Accion
 Usagi Drop %SEPARATOR% Finalizado %SEPARATOR% Anime %SEPARATOR% Cosas de la vida %SEPARATOR% Josei
 Dead Dead Demons Dededede Destruction %SEPARATOR% Finalizado %SEPARATOR% Anime %SEPARATOR% 
-Suki demo Kirai na Amanojaku %SEPARATOR% Finalizado %SEPARATOR% Anime %SEPARATOR% 
+Suki demo Kirai na Amanojaku %SEPARATOR% Finalizado %SEPARATOR% Anime %SEPARATOR% Aventura %SEPARATOR% Sobrenatural
 Hanma Baki vs. Kengan Ashura %SEPARATOR% Finalizado %SEPARATOR% Anime %SEPARATOR% Accion
 Himouto! Umaru-chan OVA %SEPARATOR% Finalizado %SEPARATOR% Anime %SEPARATOR% Colegial %SEPARATOR% Comedia
 Rising Impact %SEPARATOR% Finalizado %SEPARATOR% Anime %SEPARATOR% 
